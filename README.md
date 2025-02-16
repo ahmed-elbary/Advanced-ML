@@ -1,2 +1,2 @@
 # Advanced-ML
-Research Methods Materials and workshops.
+Advanced Machine Learning Materials and workshops.
