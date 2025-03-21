@@ -72,7 +72,7 @@ answer = processor.decode(output[0], skip_special_tokens=True)
 answer_embedding = model_ss.encode(answer, convert_to_tensor=True)
 
 # Print results of two ways of answering questions
-print(f"Image: {image_path}")
+print(f"\nImage: {image_path}")
 print(f"Question: {question}")
 for option in options:
     # (1) Obtain a binary matching value
@@ -80,9 +80,53 @@ for option in options:
     inputs = processor(images=image, text=prompt, return_tensors="pt").to(device)
     with torch.no_grad(): output = model_vaq.generate(**inputs)
     match = processor.decode(output[0], skip_special_tokens=True)
+    print(f"\nOption: {option} Predicted Answer: {answer} Match: {match} ")
 
     # (2) Obtain a matching score based on the similarity between ground truth option and predicted answer
     #     The answer with the highest score is arguably the best answer for the given question.
     option_embedding = model_ss.encode(option, convert_to_tensor=True)
     score = util.pytorch_cos_sim(answer_embedding, option_embedding).cpu().item()
     print(f"Option: {option} Predicted Answer: {answer} Match: {match} Similarity_Score: {score}")
+
+# --- New code added below ---
+
+# Function to calculate Exact Match (EM)
+def calculate_exact_match(predicted_answer, true_answer):
+    """
+    Exact Match (EM): Returns 1 if predicted answer exactly matches true answer, 0 otherwise.
+    """
+    predicted_answer = predicted_answer.strip().lower()
+    true_answer = true_answer.strip().lower()
+    return 1 if predicted_answer == true_answer else 0
+
+# Function to calculate Reciprocal Rank (RR)
+def calculate_reciprocal_rank(predicted_answer, ranked_options):
+    """
+    Reciprocal Rank (RR): Returns 1/rank where rank is the position of the first correct answer 
+    in the ranked list. If no correct answer is found, returns 0.
+    """
+    predicted_embedding = model_ss.encode(predicted_answer, convert_to_tensor=True)
+    option_embeddings = model_ss.encode(ranked_options, convert_to_tensor=True)
+    
+    # Calculate similarity scores and rank options
+    scores = util.pytorch_cos_sim(predicted_embedding, option_embeddings).cpu().numpy().flatten()
+    ranked_indices = scores.argsort()[::-1]
+    ranked_options_sorted = [ranked_options[i] for i in ranked_indices]
+    
+    # Find the rank of the first correct answer (assuming exact match to predicted answer)
+    for rank, option in enumerate(ranked_options_sorted, 1):
+        if option.strip().lower() == predicted_answer.strip().lower():
+            return 1 / rank
+    return 0
+
+# Evaluate metrics (assuming one of the options is the true answer for demonstration)
+true_answer = options[0]  # For example, assume 'At the beach.' is the ground truth
+em_score = calculate_exact_match(answer, true_answer)
+rr_score = calculate_reciprocal_rank(answer, options)
+
+# Print the evaluation metrics
+print("\n--- Evaluation Metrics ---")
+print(f"True Answer: {true_answer}")
+print(f"Predicted Answer: {answer}")
+print(f"Exact Match (EM): {em_score}")
+print(f"Reciprocal Rank (RR): {rr_score}")

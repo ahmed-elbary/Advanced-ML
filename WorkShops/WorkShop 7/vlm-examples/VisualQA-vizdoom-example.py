@@ -27,6 +27,7 @@ model_vaq.to(device)
 
 # Generate agent moves from a folder containing example images
 folder_path = "./some-vizdooom-images"
+print('\n')
 for file_name in os.listdir(folder_path):
     image_path = folder_path+'/'+file_name  
     image = Image.open(image_path).convert("RGB")
