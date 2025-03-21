@@ -1,2 +1,2 @@
 # Advanced-ML
-Advanced Machine Learning Materials and workshops.
+Advanced Machine Learning Workshops and assessmenmts.
