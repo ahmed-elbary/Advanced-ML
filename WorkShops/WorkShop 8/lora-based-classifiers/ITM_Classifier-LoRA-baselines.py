@@ -164,7 +164,7 @@ class ITM_LoRA_Model(nn.Module):
             print("\nFULL model:\n",self.vision_model)
             self.vision_model = self.vision_model.vision_model
             print("\nONLY vision model:\n",self.vision_model)
-            self.vision_model.to(torch.bfloat16)
+            #self.vision_model.to(torch.bfloat16)
 
             self.model = self.apply_lora_to_blip(self.vision_model)
             
@@ -337,11 +337,11 @@ if __name__ == '__main__':
     print(f'Using device: {device}')
 
     # Paths and files
-    IMAGES_PATH = "./visual7w-images"
-    train_data_file = "./visual7w-text/v7w.TrainImages.itm.txt" 
-    dev_data_file = "./visual7w-text/v7w.DevImages.itm.txt"
-    test_data_file = "./visual7w-text/v7w.TestImages.itm.txt"
-    sentence_embeddings_file = "./v7w.sentence_embeddings-gtr-t5-large.pkl"
+    IMAGES_PATH = "C:/Users/Student/Desktop/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-images"
+    train_data_file = "C:/Users/Student/Desktop/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-text/v7w.TrainImages.itm.txt" 
+    dev_data_file = "C:/Users/Student/Desktop/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-text/v7w.DevImages.itm.txt"
+    test_data_file = "C:/Users/Student/Desktop/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-text/v7w.TestImages.itm.txt"
+    sentence_embeddings_file = "C:/Users/Student/Desktop/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/v7w.sentence_embeddings-gtr-t5-large.pkl"
     sentence_embeddings = load_sentence_embeddings(sentence_embeddings_file)
 
     # Create datasets and loaders
@@ -354,7 +354,7 @@ if __name__ == '__main__':
     #dev_dataset = ITM_Dataset(images_path, "dev_data.txt", sentence_embeddings, data_split="dev")  # whole dev data
 
     # Create the model using one of the two supported architectures
-    MODEL_ARCHITECTURE = "BLIP-LoRA" # options are "ViT-LoRA" or "BLIP-LoRA"
+    MODEL_ARCHITECTURE = "ViT-LoRA" # options are "ViT-LoRA" or "BLIP-LoRA"
     model = ITM_LoRA_Model(num_classes=2, ARCHITECTURE=MODEL_ARCHITECTURE).to(device)
     print("\nModel Architecture:")
     print(model)

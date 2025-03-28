@@ -1,0 +1,1502 @@
+v7w_18.jpg	Where is the man sitting?	At the computer. | On a park bench. | On the bus. | In a restaurant.
+v7w_18.jpg	Where is the man sitting?	At a desk. | On a chair. | On the sofa. | On a park bench.
+v7w_18.jpg	Where is an open spiral notebook?	On the table. | In the backpack. | In the car. | On the piano.
+v7w_18.jpg	Where is the coffee mug?	On the table. | In the sink. | On the counter. | In the cabinet.
+v7w_25.jpg	When was this picture taken?	It is daytime. | Night. | Morning. | Sundown.
+v7w_25.jpg	Where was this picture taken?	Outside. | At the swimming pool. | Underwater. | On the cruiseship.
+v7w_2359366.jpg	Who would use this crosswalk?	Pedestrian. | Bicyclist. | Person walking a dog. | A curbside vendor with a cart.
+v7w_2359456.jpg	Where was the photo taken?	Countryside. | Garden. | In a house. | Garage.
+v7w_209.jpg	Where is the mat?	In the bathroom. | In the kitchen. | In the mud room. | In the garage.
+v7w_209.jpg	Where does this picture take place?	Inside of a house. | In the kitchen. | In the den. | In the dining room.
+v7w_209.jpg	Where is the toilet and sink?	In the bathroom. | At the back of the house. | Upstairs. | Downstairs.
+v7w_257.jpg	Where is the fence?	At the back. | Near the sidewalk. | By the road. | Around the park.
+v7w_257.jpg	Where are the green trees?	The green trees are in the back. | The green trees are in the posterior. | The green trees are in rear. | The green trees are behind everything else.
+v7w_2359593.jpg	Where are most of the people standing?	Sidewalk. | Grass. | In the street. | Indoors.
+v7w_2359810.jpg	When was the photo taken?	In the daytime. | At dawn. | At dusk. | At two in the morning.
+v7w_2359861.jpg	When are they playing?	Daytime. | After school. | Twilight. | In the morning.
+v7w_2359861.jpg	Who is drinking from the bottle?	Baby. | The baseball player. | The asian woman. | The toddler.
+v7w_2359867.jpg	When was this?	Nighttime. | Morning. | Noon. | Dusk.
+v7w_2360027.jpg	Who is standing in this photo?	A girl and boy. | A woman. | A couple. | An old man.
+v7w_2360148.jpg	Where was the photo taken?	At the airport. | Six Flags. | Chicago. | Paris.
+v7w_2360252.jpg	Where was this picture taken?	A skate park. | Pool. | Basketball court. | Street.
+v7w_2360290.jpg	Where is this scene occurring?	A used bookstore. | A gym. | A restaurant. | At work.
+v7w_2360324.jpg	When was picture taken?	During daylight. | Morning. | Noon. | Late night.
+v7w_2360324.jpg	Where is bus located?	On a busy street. | In a car park. | In a garage. | At a scrap yard.
+v7w_2360364.jpg	Where was this picture taken?	Tennis game. | Beach. | Basketball court. | Home.
+v7w_2360421.jpg	When was this taken?	During the day. | At night. | In the afternoon. | In the morning.
+v7w_2360421.jpg	Who is holding the racket?	The player in white. | The player in grey. | The player in red. | The player in black.
+v7w_2360637.jpg	Where is this scene?	Beachside. | By the lake. | By the river. | By the sea.
+v7w_2360645.jpg	When was this taken?	Outdoors. | Indoors. | In a tent. | In a car.
+v7w_2360750.jpg	Who is taking the picture?	Tourist. | A young girl. | An old man. | The circus trainer.
+v7w_2360805.jpg	When was this photo taken?	During a tennis match. | After a game. | At noon. | In the morning.
+v7w_2360876.jpg	Who are dressed as knights?	Two riders. | Four men. | The people in the crowd. | Everyone.
+v7w_2360977.jpg	When is this taking place?	Daylight. | Dusk. | Midnight. | May.
+v7w_2361287.jpg	When is this photo taken?	In the daytime. | In the morning. | In the evening. | At night.
+v7w_2361442.jpg	Where is an arrow?	On a street sign. | Turn lane. | Quiver. | Drawn on bow.
+v7w_2361522.jpg	Where is the cliff?	On the horizon. | To the left. | Above the lake. | On the mountain.
+v7w_2361557.jpg	When will the game be over?	Aftter the innings are played. | When time is up. | When this quarter is over. | After 90 minutes.
+v7w_2361628.jpg	When was the photo taken?	Night. | Noon. | Morning. | Evening.
+v7w_2361666.jpg	When was picture taken?	Daytime. | Morning. | Noon. | Night.
+v7w_2361708.jpg	Who is the subject of the photo?	The man. | My niece. | The pastor. | Churchgoers.
+v7w_2361763.jpg	When was the photo taken?	Daytime. | At night. | Sunrise. | Sunset.
+v7w_2361798.jpg	Where is the bear?	Right of baby. | Left of baby. | Middle of baby. | Underneath the baby.
+v7w_2361798.jpg	Who is smiling?	Child and bear. | The bear. | The child. | The clowns.
+v7w_2361872.jpg	When was this photo taken?	Outside, during the daytime. | Morning. | Noon. | Evening.
+v7w_2361926.jpg	Where is the bus?	At the bus stop. | In the street. | At the bus terminal. | At the traffic light.
+v7w_2361926.jpg	When was the picture taken?	During the daytime. | At night. | Last week. | Yesterday.
+v7w_2361931.jpg	When was picture taken?	Daytime. | Night time. | Morning. | Afternoon.
+v7w_2362112.jpg	When was the picture taken?	Morning. | Night. | Sunset. | Memorial Day.
+v7w_2362245.jpg	Where was this photo taken?	At a Chinese restaurant. | In the city. | At a fair. | At the beach.
+v7w_2362269.jpg	Where is this taken?	On a court. | In a park. | At a tennis match. | At Wimbledon.
+v7w_2362269.jpg	When was this taken?	During the day. | Before lunch. | Afternoon. | Morning.
+v7w_2362356.jpg	When was the photo taken?	Day time. | Night time. | In June. | Last Thanksgiving.
+v7w_2362376.jpg	Where is this taking place?	In a park. | In the ZOO. | In Six Flags Over Texas. | On a street.
+v7w_2362403.jpg	Who is this a picture of?	A child. | A friend. | An adult. | A dog.
+v7w_2362438.jpg	When was this taken?	At night. | In the morning. | At lunch time. | At dusk.
+v7w_2362445.jpg	Where was this photo taken?	Outside, in the snow. | Mountain. | Farm. | Cabin.
+v7w_2362461.jpg	When was this picture taken?	During the day. | After the party. | When they were at the casino. | Christmas.
+v7w_2362461.jpg	Where is the person surfing?	In the ocean. | Near the beach. | On the waves. | Off the coast.
+v7w_2362527.jpg	When is this shot?	Daytime. | Nightime. | Dawn. | Dusk.
+v7w_2362553.jpg	Where is dog seen in right backgrounds collar?	Around neck. | On the ground. | Tail. | Torso.
+v7w_2362630.jpg	Where are the engines?	On the wings. | Under the hood. | In the rear. | In the front train car.
+v7w_2362783.jpg	When will the background be less blurry?	When the skateboarder is still. | When the dog stops moving. | When the child stops fidgeting. | When the man stops running.
+v7w_2362878.jpg	When is the laptop on?	Now. | When someone is using it. | When the power is on. | When the screen is showing.
+v7w_2362953.jpg	Who would drive this vehicle?	A captain. | The driver. | My father. | The best driver.
+v7w_1593181.jpg	When was this photo taken?	During the day because its sunny and the sky is blue. | Daytime. | Nighttime. | Afternoon.
+v7w_2363337.jpg	Who is in the photo?	Noone. | Man. | Woman. | Girl.
+v7w_2363359.jpg	Where is this car stopped?	At an intersection. | In a parking lot. | In a driveway. | On the shoulder.
+v7w_2363515.jpg	When was the photo taken?	Afternoon. | Evening. | Night. | Sunrise.
+v7w_2363515.jpg	Who took the photo?	Photographer. | Family member. | Friend. | Teacher.
+v7w_2363568.jpg	Where was this photo taken?	In the ocean. | The police station. | The post office. | The hospital.
+v7w_2363568.jpg	When was this?	Daytime. | Nighttime. | This morning. | Noon.
+v7w_2363568.jpg	Who is he?	A surfer. | A beach bum. | A swimmer. | A life guard.
+v7w_2363609.jpg	Who is to the left of the man on the left?	A woman. | Another man. | His son. | His daughter.
+v7w_2363710.jpg	Who else is in the photo?	Nobody. | A woman. | A dog. | A man.
+v7w_2363727.jpg	Who is in the picture?	Cows. | Horses. | Goats. | Sheep.
+v7w_2363786.jpg	When is it?	Night time. | Day time. | Noon. | Dawn.
+v7w_2363864.jpg	Who is holding a phone?	A man. | A young girl. | A teenage boy. | A woman in red.
+v7w_2364043.jpg	Who founded the college?	Presbyterians. | John and Mary. | Catholic Church. | Unitarians.
+v7w_2364137.jpg	Who is throwing the ball?	Pitcher. | A boy. | A player. | A coach.
+v7w_2364161.jpg	Where is the tan building?	Behind the train. | In front of the train. | Behind the boat. | Behind the plane.
+v7w_2364300.jpg	Where was the picture taken?	At an outside fund raiser. | Park. | Carnival. | Fair.
+v7w_2364364.jpg	Where was this picture taken?	In a museum. | By a volcano. | In a spa room. | At the black jack table.
+v7w_2364387.jpg	When will the fire hydrant be used?	When a building catches on fire near the hydrant. | When there is a block party. | When it's summertime. | When firefighters arrive.
+v7w_2364387.jpg	Who is walking in this photo?	Men and women. | Two boys. | Two little girls. | A group of friends.
+v7w_2364391.jpg	Who can you see in the picture?	No one. | A man. | A lady. | A boy.
+v7w_2364412.jpg	Where are the trees?	Behind the sign. | Background. | To the left. | To the right.
+v7w_2364473.jpg	When is this?	During the day. | Tomorrow. | On the weekend. | Next month.
+v7w_2364473.jpg	Where is the computer?	On the counter. | On the computer desk. | In the computer room. | In the living room.
+v7w_2364492.jpg	When was this picture taken, during the daytime or nighttime?	Daytime. | Nighttime. | The evening. | Late in the day.
+v7w_2364568.jpg	When was this photo taken?	During the say. | December. | August. | July.
+v7w_2364569.jpg	Who took the photo?	A player. | Man. | Woman. | Twin.
+v7w_2364569.jpg	When was this photo taken?	During the game. | Christmas. | Halloween. | Fourth of July.
+v7w_2364569.jpg	Where was this photo taken?	Baseball game. | Wedding. | Zoo. | Park.
+v7w_2364727.jpg	Who has feathers?	Bird. | Cat. | Dog. | Hampster.
+v7w_2364865.jpg	When will he land?	Soon. | Tomorrow. | Later. | In one hour.
+v7w_2364953.jpg	When was the photo taken?	Daytime. | Early evening. | 3 am. | Midnight.
+v7w_2364959.jpg	When was this photo taken?	During the daytime. | During the night. | During the evening. | In the morning.
+v7w_2364976.jpg	Who is on the cup?	The bird. | The cat. | The horse. | Nothing.
+v7w_2365045.jpg	When was the picture taken?	At night. | Christmas. | Thanksgiving. | Summer.
+v7w_2365093.jpg	When is the toilet flushed?	After it is used. | When someone goes. | After peeing. | After doing number two.
+v7w_2365142.jpg	When was the photo taken?	During the daytime. | At night. | In the morning. | After lunch.
+v7w_2365189.jpg	When is this?	Night. | Noon. | Daytime. | Evening.
+v7w_2365206.jpg	Who is in the photo?	Nobody. | A person. | A woman. | A man.
+v7w_2365265.jpg	Who is there?	Girl. | Boy. | Man. | Woman.
+v7w_2365298.jpg	Who is in the picture?	No one. | I am. | You are. | My Grandma.
+v7w_2365310.jpg	When was the photo taken?	Day time. | Night time. | Dusk. | Dawn.
+v7w_2365323.jpg	When can these be eaten?	Breakfast. | Lunch. | Dinner. | Tea.
+v7w_2365326.jpg	When did the photographer take the photos?	No indication. | At Christmas. | In the summer. | In the fall.
+v7w_2365337.jpg	When does the train stop?	To load and unload passengers. | To board. | To unboard. | For connections.
+v7w_2365448.jpg	Where in the vehicle is the teddy bear?	Backseat. | Under the seat. | In the glove compartment. | In the trunk.
+v7w_2365513.jpg	When does he hold the tie?	Right now. | Always. | Never. | There is no tie.
+v7w_2365539.jpg	Who is on the beach?	Tourists. | Families. | Lifeguards. | Teenagers.
+v7w_2365541.jpg	Who is wearing an orange shirt?	The first man. | Girl. | Referee. | Player.
+v7w_2365541.jpg	When was the photo taken?	Daytime. | Noon. | Morning. | Night.
+v7w_2365620.jpg	When was this taken?	During the day. | At night. | In the morning. | At noon.
+v7w_2365846.jpg	Who would be able to handle these elephants?	Animal trainer. | Man. | Ringmaster. | Zoologist.
+v7w_2365895.jpg	When was this photo taken?	During the day. | At night. | Just before dawn. | Right after dusk.
+v7w_2366022.jpg	When will it be 5:00?	Ten minutes. | 20 minutes. | 2 hours. | 5 minutes.
+v7w_2366109.jpg	Who is standing in the snow?	The people. | Kids. | Ski patrol. | Woman.
+v7w_2366155.jpg	Who prepared this food?	A restaurant crew member. | A chef. | My grandmother. | The owner.
+v7w_2366201.jpg	When was the picture taken?	At dusk. | Sunset. | Sunrise. | At night.
+v7w_2366247.jpg	Who is cutting the cake?	Bride. | Groom. | Mother. | Father.
+v7w_2366354.jpg	When will the water settle?	After the trick is over. | After the storm. | Low tide. | When removed from heat.
+v7w_2366362.jpg	When was the picture taken?	Daytimne. | Nighttime. | Sunrise. | Sunset.
+v7w_2366398.jpg	When will the truck be salvaged?	Never. | Today. | Tomorrow. | Monday.
+v7w_2366491.jpg	When was the picture taken?	Night. | Sunrise. | Sunset. | Daytime.
+v7w_2366498.jpg	Who i holding a glass?	Lady on the left. | Man in the background. | The little girl. | The boy in the middle.
+v7w_2366630.jpg	When was the photo taken?	Before the hot dog was eaten. | At breakfast. | At bedtime. | After game.
+v7w_2366672.jpg	When is this taking place?	Daytime. | Evening. | Nighttime. | Early morning.
+v7w_2366778.jpg	Who has on a hat?	The woman in purple. | The tallest woman. | The shortest woman. | The woman in the red scarf.
+v7w_2366820.jpg	When was picture taken?	Daytime. | This morning. | A minute ago. | Just now.
+v7w_2366957.jpg	Where was the photo taken?	In the marketplace. | In a park. | In a parking lot. | In a school.
+v7w_2367035.jpg	When are they on skis?	Now. | When skiing. | When testing them. | When skiing cross country.
+v7w_2367072.jpg	Where does the clock sit?	Up high. | Down low. | On the right. | On the left.
+v7w_2367095.jpg	When were the horses standing?	Daytime. | Midnight. | Sunset. | Nighttime.
+v7w_2367109.jpg	When was this picture taken?	During the day. | In the morning. | In the evening. | At night.
+v7w_2367305.jpg	When was the vegetable selling started?	This morning. | This afternoon. | This night. | This dawn.
+v7w_2367333.jpg	Where are they?	In front of a roof. | In front of a stairway. | In back of a building. | On top of a roof.
+v7w_2367389.jpg	When was this photo taken?	During the day. | 3pm. | 8pm. | At night.
+v7w_2367475.jpg	Who is wearing blue and white?	Batter. | Pitcher. | Catcher. | Mascot.
+v7w_2367496.jpg	When was this picture taken?	Daytime. | At night. | Sunrise. | Sunset.
+v7w_2367617.jpg	Where is the food?	On a plate. | In the bowl. | On the table. | On a tray.
+v7w_2367617.jpg	When is this?	Dinner. | Lunck. | Breakfast. | Brunch.
+v7w_2367743.jpg	Who is holding the hair dryer?	The girl. | The man. | The woman. | The boy.
+v7w_2367755.jpg	When was the picture taken?	Day time. | Night time. | Midnight. | Morning time.
+v7w_2367936.jpg	When was the picture taken?	In the daytime. | In winter. | At night. | In the morning.
+v7w_1159267.jpg	When was the picture taken?	Daytime. | Night time. | Sundown. | Sunrise.
+v7w_2368196.jpg	Where is the man standing at?	A hill. | The corner. | By the utility pole. | In the doorway.
+v7w_2368231.jpg	Who is sitting on the bike?	A woman. | A young man. | A old lady. | A monkey.
+v7w_2368257.jpg	When was this photo taken?	During the day. | At night. | In the afternoon. | In the morning.
+v7w_2368409.jpg	Where are the people?	In a dining room. | In a pizza shop. | At a bakery. | In a bedroom.
+v7w_2368412.jpg	When is the picture taken?	Daytime. | Nightime. | Dawn. | Dusk.
+v7w_2368493.jpg	Who is there?	A skier. | A banker. | A lawyer. | A biker.
+v7w_2368514.jpg	When was this picture taken?	Daytime. | Night time. | Noon. | Afternoon.
+v7w_2368746.jpg	Who is holding the remote?	The cat. | The dog. | The baby. | The plant.
+v7w_2368841.jpg	When is this picture taken?	During the day. | Morning. | Night. | Afternoon.
+v7w_2368905.jpg	Who is the animal?	A Scottish Blackface sheep. | An American Whiteface lamb. | An African blackface sheep. | A Mexican whiteface lamb.
+v7w_2368931.jpg	Who flies planes?	Pilots. | Boaters. | Missionaries. | Mechanics.
+v7w_2369041.jpg	When was the photo taken?	During the day. | During the night. | During the evening. | During the game.
+v7w_2369089.jpg	When was this picture taken?	During daylight. | Dusk. | Dawn. | Noon.
+v7w_2369201.jpg	When is the picture being taken?	Daytime. | Night time. | Early morning. | Middle of the day.
+v7w_2369216.jpg	Who is shown?	A player. | A shopkeeper. | A woman. | A old man.
+v7w_2369235.jpg	Where is this picture taken?	In the grass. | On a beach. | At a pizza place. | The neighbor's party.
+v7w_2369279.jpg	Where in the bathroom are they brushing the boy's teeth?	The sink. | In front of mirror. | Bathtub. | Next to bidet.
+v7w_2369372.jpg	When was this picture taken?	Before the game. | During the game. | During half time. | After the game.
+v7w_285671.jpg	Where are there animals that are not giraffes?	On the horizon. | On the grass. | On the lawn. | In the front.
+v7w_2369410.jpg	Where is this scene taking place?	Bathroom. | Kitchen. | Den. | Bedroom.
+v7w_2369436.jpg	Who is in the picture?	There are no people in the picture. | A dog. | A cat. | A raccoon riding an alligator.
+v7w_2369558.jpg	When was the photo taken?	Daytime. | Night. | Afternoon. | Morning.
+v7w_2369558.jpg	Who is in the photo?	Nobody. | The birthday guests. | The suspect. | The president.
+v7w_2369558.jpg	Where are the oranges?	In a bowl. | On a tree. | In a grocery bag. | In the fridge.
+v7w_2369723.jpg	When was this picture taken?	During a baseball game. | During a soccer game. | During a basketball game. | During a tennis match.
+v7w_2369769.jpg	Where are the people?	Mountain. | River. | Park. | Beach.
+v7w_2369786.jpg	Where is the skier?	In the woods. | Ski lift. | In snow. | Infirmary.
+v7w_285750.jpg	Where was the photo taken?	At an airport. | At a train station. | At a bus stop. | In the parking lot.
+v7w_2369917.jpg	Where is this location?	Park. | Harbor. | Landfill. | Construction site.
+v7w_2369949.jpg	Where is the picture taken?	At a table. | Miami florida. | Daytona beach. | Wax museum.
+v7w_1159583.jpg	Who is wearing a brown coats and yellow pants?	The woman on the left. | The worker. | The vendor. | A little kid.
+v7w_2370023.jpg	Where was the picture taken?	In an office. | At the beach. | In the dining room. | At the park.
+v7w_2370050.jpg	When was the picture taken?	During the day. | Morning. | Noon. | Night.
+v7w_2370123.jpg	When was this picture taken?	During the day. | In the early morning. | During the full moon. | As the sun was setting.
+v7w_2370272.jpg	Where was this photo taken?	On a snowy mountain. | In the cabin. | At the bar. | In the kennel.
+v7w_2370306.jpg	When was the photo taken?	During the match. | During the circus. | Before dinner. | During vacation.
+v7w_2370513.jpg	When was this photo taken?	Nighttime. | Morning. | Afternoon. | Daytime.
+v7w_2370566.jpg	When was the picture taken?	Daytime. | Night time. | In the morning. | Afternoon.
+v7w_2370603.jpg	When is this picture taken?	During the daytime. | During the night. | At 6:30. | At sunset.
+v7w_2370742.jpg	Where was this taken?	In a bedroom. | Inside. | Living room. | Dining room.
+v7w_2370742.jpg	When was this taken?	During the day. | Morning. | Noon. | Night.
+v7w_2370897.jpg	When is this taken?	At night. | Daytime. | Afternoon. | Morning.
+v7w_2371064.jpg	When was this photo taken?	During the day. | At night. | Early morning. | Holloween.
+v7w_2371144.jpg	When was this picture taken?	Daytime. | Night. | Tomorrow. | Christmas.
+v7w_2371144.jpg	Who is on the skateboard?	A man. | Timothy Leary. | Alen Ginsberg. | William S. Burroughs.
+v7w_2383150.jpg	Where is this picture taken?	Hotel. | Resort. | Motel. | Bed & Breakfast.
+v7w_2339460.jpg	When will the waves be choppy?	When it is windy. | When it is hot. | When the water is churning. | When the storm comes.
+v7w_2371355.jpg	When was picture taken?	Daytime. | Breakfast. | Dawn. | 2:24pm.
+v7w_2383155.jpg	When is the photo taken?	Daytime. | Nighttime. | Sunset. | Morning.
+v7w_2371498.jpg	Where is the jockey?	On the horse. | At the wedding. | In the stable. | On the race track.
+v7w_1159848.jpg	Who is sitting down?	A street vendor. | An old woman. | A child. | A security guard.
+v7w_2371668.jpg	Who is wearing a hat?	The tennis player. | The baseball player. | The spectator. | The coach.
+v7w_2371690.jpg	Where was the photo taken?	At a baseball field. | On a golf course. | In a stadium. | At college campus.
+v7w_2371732.jpg	When was this picture taken?	During the day. | Early morning. | Overnight. | Twilight.
+v7w_2371893.jpg	When did they take the picture?	Daytime. | After the rain. | Night time. | Early morning.
+v7w_2372110.jpg	Who are in the photo?	People. | Mom. | Dad. | Neighbor.
+v7w_2372166.jpg	Who is wearing a pink cardigan?	The woman in the hat. | The man in the store. | The lady over there. | My friend.
+v7w_2372193.jpg	When was the picture taken?	During the day. | At night. | At sunset. | At sunrise.
+v7w_2372437.jpg	When will she be translated?	Immediately. | Tomorrow. | Never. | Two days from now.
+v7w_2372583.jpg	When was the photo taken?	Daytime. | Night. | Evening. | Dawn.
+v7w_2372611.jpg	When was this picture taken?	During a game. | At night. | Tuesday. | Last week.
+v7w_2372616.jpg	When was this pic taken?	During the daytime. | Nightime. | Victorian era. | At sunset.
+v7w_2372774.jpg	When could this photo have been taken?	Morning. | Evening. | Winter. | Night.
+v7w_2372865.jpg	Who is standing in the picture?	A man. | Three women. | A crowd. | A duck.
+v7w_2373024.jpg	Where is this scene?	The ocean. | The yard. | The plaza. | The airport.
+v7w_2373034.jpg	When is this?	During the day. | In the middle of the night. | Dawn. | Dusk.
+v7w_2373278.jpg	Where was this picture taken?	An airport. | Dallas. | San Antonio. | Paris.
+v7w_2373286.jpg	When was this photo taken?	In the daytime. | At night. | In the morning. | At sunset.
+v7w_2373375.jpg	Where is location?	Upward in the sky. | In the basement. | In a house. | In the library.
+v7w_2373407.jpg	Where is this shot?	Field. | Beach. | Street. | Lake.
+v7w_2373466.jpg	When was this photo taken?	During a baseball game. | During a basketball game. | During a tennis match. | During a poker tournament.
+v7w_1160174.jpg	Where is the people at?	Probably at luau. | Las Vegas. | Hollywood. | Madison Square Garden.
+v7w_2373612.jpg	When was this photo taken?	Winter. | Spring. | Summer. | Fall.
+v7w_2373836.jpg	When was the photo taken?	Daytime. | Night. | Dusk. | Morning.
+v7w_2373854.jpg	When was the pic teken?	During the day. | At night. | At sunrise. | At sunset.
+v7w_2373854.jpg	Where was the pic taken?	On the shore. | On a mountain. | In a swamp. | In the jungle.
+v7w_2373996.jpg	Where is this shot?	Street. | Beach. | House. | Church.
+v7w_2374244.jpg	Where was the photo taken?	In the woods. | On the beach. | Under the water. | Next to the building.
+v7w_2374341.jpg	When was the picture taken?	During the day. | Last week. | During the holidays. | More than a century ago.
+v7w_2374369.jpg	When in the day is it?	Morning. | Night. | Afternoon. | Midnight.
+v7w_2374422.jpg	Who is wearing shorts?	Man on the sidewalk. | Woman on bicycle. | Man on stoop. | Woman in road.
+v7w_2374851.jpg	Where is the woman standing?	On a tennis court. | On a volley ball court. | On a basket ball court. | On a badminton court.
+v7w_2374871.jpg	Who is pictured?	Sheep. | Shepherd. | Sheep Dog. | Border collie.
+v7w_2375075.jpg	Where was thiis?	In a restaurant. | At a table. | Near the hostess stand. | At a cafe.
+v7w_2375107.jpg	When was this picture taken?	On a cloudy day. | On a sunny day. | On a snowy day. | On a rainy day.
+v7w_2375301.jpg	Who is crossing?	People. | A man in a bright pink shirt. | A cow. | Linda Perry.
+v7w_2375608.jpg	When was this photo taken?	Dusk. | Dawn. | Evening. | Morning.
+v7w_2375646.jpg	When was the picture taken?	Nighttime. | Sunrise. | At dinner. | Sunset.
+v7w_2375654.jpg	Where was the photo taken?	On a beach. | On the shore. | On the lake. | In the ocean.
+v7w_2375662.jpg	When will the kite fall?	If there is no wind. | If they are done playing. | If it rains. | If someone cuts the line.
+v7w_2375720.jpg	When in the year would this be?	Winter. | Fall. | Summer. | Spring.
+v7w_2375743.jpg	When was the photo taken?	Nighttime. | New Years Eve. | Fourth of July. | Mothers Day.
+v7w_2375818.jpg	Where is the horse?	In the grass. | Out on the pasture. | Out on the prairie. | On the farm.
+v7w_2375831.jpg	Where is this picture located?	At a train station. | At the airport. | At the zoo. | At the beach.
+v7w_2375893.jpg	Where is this location?	Snow track. | Ski slope. | Beach. | Park.
+v7w_2375898.jpg	When was the photo taken?	Daytime. | Early morning. | Afternoon. | Evening.
+v7w_2376119.jpg	When was this photo taken?	Day time. | Midnight. | Evening. | Early Morning.
+v7w_2376385.jpg	When was the picture taken?	Afternoon. | Morning. | Sunset. | Dinner time.
+v7w_2376385.jpg	Where was the picture taken?	Wild. | Forest. | Desert. | Mountains.
+v7w_2376418.jpg	When will they use it?	Soon. | They won't. | Tomorrow. | Next week.
+v7w_2376449.jpg	Where was this photo taken?	Outside on the street. | New York. | Queens. | Brooklyn.
+v7w_2376486.jpg	When was the picture taken?	Daytime. | At night. | In the morning. | In the winter.
+v7w_2376486.jpg	Where was the photo taken?	At the airport. | By the pool. | At the school. | In the kitchen.
+v7w_2376488.jpg	Who is skiing?	Person. | Mom. | Brad. | Dad.
+v7w_2376600.jpg	When was the photo taken?	Daytime. | Nighttime. | Dawn. | Dusk.
+v7w_2376636.jpg	When was the photo taken?	During the day. | At night. | Dusk. | Dawn.
+v7w_2376637.jpg	Where was this photo taken?	Outside. | In a cave. | Underwater. | In a building.
+v7w_2376749.jpg	Where is the cat?	On the table. | Under the table. | Next to the table. | On the sofa.
+v7w_2376763.jpg	When was the photo taken?	Daytime. | Yesterday. | At night. | Twilight.
+v7w_2376777.jpg	Who sits on another's lap?	Baby in red. | The puppy. | The hamster. | The man's wife.
+v7w_2376811.jpg	Where was the photo taken?	In a park. | At a store. | At a library. | At a school.
+v7w_2376843.jpg	When would this mean be served?	Lunchtime. | Dinner. | Supper. | Breakfast.
+v7w_2376888.jpg	Where was the picture taken?	On the street. | On the boardwalk. | On the sidewalk. | On the stairs.
+v7w_2376898.jpg	Where is the baby chair?	On the chair in the foreground. | Next to the table. | On the table. | On the floor.
+v7w_2376912.jpg	Who is driving the train?	Conductor. | Hobo. | A woman. | No one.
+v7w_2377104.jpg	Where was this photo taken?	Tennis court. | Football field. | Soccer field. | Volleyball court.
+v7w_2377104.jpg	When was this photo probably taken?	Daytime. | Noontime. | Lunchtime. | Morning time.
+v7w_2377184.jpg	When was the picture taken?	During the day. | During the morning. | During the evening. | At night.
+v7w_2377314.jpg	When was the photo taken?	Nighttime. | At dusk. | During a baseball game. | 2006.
+v7w_2377337.jpg	Who is the largest statue?	The lamb. | The man. | The child. | The flower.
+v7w_2377353.jpg	Where is this person petting his cat?	In a bed. | On a sofa. | On a chair. | On a table.
+v7w_2377455.jpg	Where is this scene?	Outside a building. | On the wall. | On the door. | On the window.
+v7w_2377632.jpg	Who is pictured?	Young men. | Young women. | Old men. | Young children.
+v7w_2377663.jpg	Who is in the photo?	Two men. | People. | Guys. | Friends.
+v7w_2377663.jpg	When was this photo taken?	During a race. | Day time. | Noon. | Evening.
+v7w_2378043.jpg	Who is driving the train?	Conductor. | A man. | A woman. | No one.
+v7w_2378058.jpg	Where are the trees?	Along the slope. | On the left. | On the right. | In the distance.
+v7w_2378086.jpg	Where was this taken?	A tennis court. | A volleyball court. | A basketball court. | A baseball field.
+v7w_2378125.jpg	Where was this photo taken?	On a hillside. | On a beach. | On a football field. | At a church.
+v7w_2378137.jpg	When is this?	Daytime. | Night. | Morning. | Dusk.
+v7w_2378258.jpg	When is this?	Daytime. | Nighttime. | Yesterday. | Afternoon.
+v7w_2378260.jpg	Where are waves?	In the ocean. | Out from the beach. | Off the island. | At the north shore.
+v7w_1591835.jpg	When was the photo taken?	At night. | In the summer. | In the morning. | At dusk.
+v7w_1591874.jpg	Where are the buildings?	Next to the harbor. | Near the park. | Downtown. | In the shopping center.
+v7w_1591918.jpg	When is the other guy going to play?	When it's his turn. | Later on. | When the game starts. | When this team loses.
+v7w_1591918.jpg	Who is playing video games?	Guys. | Teenagers. | Women. | Kids.
+v7w_2378356.jpg	Who is the man in the photo?	Skateboarder. | Rollerblader. | Bicycle rider. | Unicycle rider.
+v7w_1591942.jpg	When does the scene occur?	Daylight. | Nighttime. | At sunset. | At dawn.
+v7w_1591942.jpg	Where are weeds coming up?	Through brick. | Through the sidewalk. | In the garden. | In the background.
+v7w_1592008.jpg	Who is wearing a lime green tank?	Man behind dog. | Woman in yellow. | Child behind the cart. | Boy in front of the bus.
+v7w_2378475.jpg	Where is the dog?	Next to the man. | On the bench. | By the building. | Near the fence.
+v7w_150263.jpg	Where is the zonkey?	Between 2 zebras. | The zonkey is on a cloud. | The zonkey is in a train. | The zonkey is an imaginary animal in a circus.
+v7w_1592062.jpg	Who has short pants?	Boy. | Mom. | Uncle Charlie. | Jen.
+v7w_1592062.jpg	When is the gender of the person in the middle of the picture?	Male. | Female. | Girl. | Boy.
+v7w_1592091.jpg	Who is in the front of it?	The driver. | The passenger. | The teacher. | The minister.
+v7w_1592093.jpg	Who is going to drink these bottles?	Baby. | The man. | A child. | The woman.
+v7w_2378547.jpg	Where was the photo taken?	The runway. | The race track. | The ice rink. | The interstate.
+v7w_2378547.jpg	When was the photos taken?	Day time. | Night time. | On a break. | Twilight.
+v7w_150324.jpg	Where are the sunglasses?	On her head. | In her purse. | On the shelf. | On the table.
+v7w_1592132.jpg	Where are the men traveling?	Up a mountain. | To Paris. | To the store. | Down the road.
+v7w_1592132.jpg	When is this picture taken?	At dusk. | At sunrise. | In the late afternoon. | Thanksgiving dinner.
+v7w_1592132.jpg	Who is wearing white?	Man in forefront. | Child in background. | Woman on right. | Man in center.
+v7w_150345.jpg	Where is plant?	On water. | In the pot. | On the window. | At the store.
+v7w_150351.jpg	Where is the airport?	Next to water. | In the city. | On an island. | Next to buildings.
+v7w_150351.jpg	Where is the tower?	In the distance. | Next to the runway. | At the airport. | Between the two airplane hangers.
+v7w_150372.jpg	When are they not running?	Currently. | Tomorrow. | Tonight. | This afternoon.
+v7w_150393.jpg	Where is this truck?	On the street. | On the road. | On the bridge. | On the ship.
+v7w_150410.jpg	When was the photo taken?	During the day. | During sunrise. | During sunset. | During the night.
+v7w_150410.jpg	Where was the photo taken?	A baseball field. | A football feild. | A tennis court. | A basketball court.
+v7w_1592209.jpg	Where is sign?	In the water. | On the streetside. | In the building. | Over the hole.
+v7w_1592250.jpg	Who is posing at the table with her pizzas?	The chef. | The child eating a pizza. | The woman smiling at her husband. | The man looking at the pizza.
+v7w_150467.jpg	Where are the traffic lights?	On a pole. | On the stop sign. | On the rope. | On the wooden pole.
+v7w_150467.jpg	Where are the yellow caution lights?	On the stop lights. | At an intersection. | At a cross walk. | Somewhere you may need to stop.
+v7w_150518.jpg	Who is in this picture?	Three men and an elephant. | Two women and a lion. | Ten women and two men. | Two men and a dog.
+v7w_150522.jpg	Where is the lighthouse?	Edge of the harbor. | On the hill. | Next to the statue. | In the back yard.
+v7w_1592353.jpg	Where are the closed drawers?	In the bar area. | In the kitchen. | In the dresser. | Under the sink.
+v7w_2378788.jpg	Who are sitting at the dining table?	Men. | Women. | Children. | Teenagers.
+v7w_1592378.jpg	Where was the photo taken?	At a restaurant. | At the movies. | At the ballpark. | At the bowling alley.
+v7w_1592402.jpg	When was this picture taken?	At night in the city. | Yesterday. | Last night. | This morning.
+v7w_1592422.jpg	Where are many windows?	On buildings. | On mansions. | On palaces. | On hotels.
+v7w_1592462.jpg	Where are people sitting?	Along a curb. | On the sidewalk. | On the bench. | In the park.
+v7w_1592462.jpg	Who is on a phone?	The man with a hat. | A telemarketer. | Two long distance lovers. | Someone who doesn't want to break up with you in person.
+v7w_1592475.jpg	Where was the photo taken?	At an airport. | At an arena. | At a beach. | At a movie theater.
+v7w_1592475.jpg	When will the plane take off?	After all the passengers board. | When everyone has their seatbelt on. | When the stewardess says they are ready. | When the pilot has finished his announcements.
+v7w_1592478.jpg	Who has a black messenger bag?	One man. | The boy on the bike. | The girl in the uniform. | The woman wearing the hat.
+v7w_1592478.jpg	When are they there?	During daytime. | During lunch. | After work. | At night.
+v7w_1592483.jpg	When is this picture set?	After a flight. | While boarding a plane. | Arriving at the airport. | At dawn.
+v7w_1592483.jpg	Where is this scene?	In an airport. | In a hotel. | In a store. | In a bathroom.
+v7w_1592524.jpg	Who is in motion?	The player. | The ball kids. | The woman. | The man.
+v7w_1592538.jpg	Where is the macy's logo?	It's on the awning above the store window. | The logo is on their shopping bags. | The logo is in their newspaper advertisement. | The logo is on their website.
+v7w_1592538.jpg	When did this occur?	In the evening. | In the morning. | After midnight. | In the afternoon.
+v7w_1592601.jpg	Who is in the photo?	No one. | The class. | A man. | A woman.
+v7w_1592637.jpg	Who has the tie?	The man with a beard and mustache. | The third man from the right. | The overweight man. | The little kid.
+v7w_1592646.jpg	Where was this photo taken?	At a zoo. | At a farm. | At a ecological center. | At an aquarium.
+v7w_1592646.jpg	When are the feeding times?	3:00pm. | 9:00am. | 12:00pm. | 6:00pm.
+v7w_2379080.jpg	When was the picture taken?	Daytime. | At night. | At dawn. | At dusk.
+v7w_2379099.jpg	When was the picture taken?	3 o'clock. | 5 o'clock. | 7 o'clock. | 2 o'clock.
+v7w_2379103.jpg	When will everyone stop trying to get the ball?	When the game is over. | When someone catches it. | When the referee blows his whistle. | When it goes out of bounds.
+v7w_1592677.jpg	Where is red light?	On oven. | At intersection. | On clock radio. | On dvd player.
+v7w_1592677.jpg	Where is the menu?	Next to the stove. | Side by side to the stove. | Parallel to the stove. | Along the stove.
+v7w_1592705.jpg	Where are the leaves?	Falling off of the tree. | On the lawn. | In a trash bag. | On the tree.
+v7w_1592730.jpg	Who is under the umbrella?	Two women. | A child. | An old man. | A husband and wife.
+v7w_1592730.jpg	Who is in the background?	A person. | Kids. | A guy. | Girl.
+v7w_1592750.jpg	Who is in the suitcase?	The boy. | They girl. | The dog. | The cat.
+v7w_1592844.jpg	Who is in the photo?	None. | Everybody. | One child. | One women.
+v7w_1592852.jpg	Who has a small smile?	Man. | Father. | Boy. | Teen.
+v7w_1592881.jpg	Where does arrow point at?	Right. | Up. | Down. | Left.
+v7w_1592881.jpg	When in a day is it?	Daytime. | Morning. | Evening. | Afternoon.
+v7w_2379335.jpg	When was this photo taken?	Daytime. | Nighttime. | Morning. | Dusk.
+v7w_1592922.jpg	Where are the people?	On the couch. | At the table. | In the living room. | In the den.
+v7w_1592932.jpg	Where are people walking?	On the street. | Down the trail. | Up the road. | Into town.
+v7w_1592943.jpg	Where is the picture taken?	New york city. | Paris. | Kyoto. | Copenhagen.
+v7w_1592973.jpg	When will the people leave?	When the train gets there. | When the bus arrives. | When the plane starts boarding. | In about 20 minutes.
+v7w_1592973.jpg	Who is waiting for the arrival of a train?	A group of people. | A man. | An old woman. | A young woman.
+v7w_1593024.jpg	Where is the headset?	Under the pink controller. | On the green counter. | At the brown control station. | By the grey computer.
+v7w_1593033.jpg	Who are the people in the street?	Walkers and cyclists. | Police officers. | Rollerbladers. | Dancers.
+v7w_1593034.jpg	Who is in the picture?	Just one man. | A man and a woman. | Two women. | Two men.
+v7w_1593034.jpg	Who is on a bike?	Man. | Woman. | Boy. | Girl.
+v7w_1593066.jpg	Who is shading his eyes?	One man. | Two men. | Three men. | Four men.
+v7w_2379507.jpg	When is this?	Daytime. | Midnight. | Tomorrow. | My birthday.
+v7w_2379533.jpg	When are the people riding the horses?	During the day. | At night. | In the spring. | At noon.
+v7w_1593114.jpg	Where are the trees?	Behind the buildings. | Near the park. | Near the garden. | Beside the street.
+v7w_1593114.jpg	Where are shadows cast?	In the water. | On the grass. | In the park. | Beside the tree.
+v7w_1593115.jpg	Where was this picture taken?	Airfield. | The playground. | School. | The kitchen.
+v7w_1593115.jpg	Where are the yellow lines?	On the ground. | On the street. | Near the curb. | Beside the wall.
+v7w_2379552.jpg	Where was the picture taken?	In a kitchen. | A bathroom. | A golf course. | A tower.
+v7w_1593123.jpg	Where are there empty seats?	In the stands. | On the bus. | On the train. | At the table.
+v7w_1593133.jpg	Where is the photo set?	In a garden. | In a field. | In a pond. | In a house.
+v7w_1593142.jpg	When was this picture taken?	After dark. | Evening. | During the day. | Morning.
+v7w_1593189.jpg	Where are the trees?	On the left. | In the front lawn. | At the park. | Near the trail.
+v7w_1593214.jpg	Where was the photo taken?	On a road. | London. | At the statue of liberty. | Grand canyon.
+v7w_1593214.jpg	Where are there no cars?	On the street. | On the driveway. | At the park. | At the stop light.
+v7w_1593214.jpg	Where are baskets?	On front of bicycles. | On tables. | In houses. | At picnics.
+v7w_1593228.jpg	Where was this photo taken?	On a bridge. | By a school. | By a house. | By a loft.
+v7w_1593228.jpg	When was the photo taken?	During the day. | Night time. | Birthday celebrations. | Just before John went into the hospital.
+v7w_2379668.jpg	Where is this taking place?	In a city. | At the police station. | In a court house. | On a fishing boat.
+v7w_2379842.jpg	Where was the picture taken?	In the countryside. | In the city. | In the suburbs. | In the farm house.
+v7w_2379909.jpg	Where is this scene?	City street. | Beach. | Park. | Mountain.
+v7w_2380074.jpg	Who is in the picture?	One person. | Man. | Woman. | Two children.
+v7w_2380204.jpg	Where does this scene take place?	Beach. | School bus. | Cruise ship. | Amusement park.
+v7w_2380245.jpg	Where was the photo taken?	Indoors in a kitchen. | Restaurant. | Hospital. | Pool.
+v7w_2380515.jpg	Where is the lady?	Close to the lake. | Close to the river. | Far from the lake. | Far from the river.
+v7w_2380658.jpg	Where was this picture taken?	A skate park. | At a commencement ceremony. | From inside the space shuttle. | In a circus tent.
+v7w_2380672.jpg	When was this game played?	No indication. | Noon. | 5:00 pm. | Yesterday.
+v7w_2380953.jpg	When was the picture taken?	Holidays. | Independence Day. | New Year. | Memorial Day.
+v7w_2380955.jpg	Where is the plate?	One the table. | On the counter. | In the sink. | On the desk.
+v7w_2380994.jpg	When was the picture taken?	At daytime. | At night. | Afternoon. | Morning.
+v7w_2381052.jpg	Where is the graffiti?	On train cart. | On the wall. | On the sidewalk. | On the lamp post.
+v7w_2381089.jpg	Who is on skis?	Little boy. | A man. | A woman. | A grandmother.
+v7w_2381195.jpg	Where was the picture taken?	Near propellers. | Airport. | In the air. | At the fairgrounds.
+v7w_2381217.jpg	When did the giraffe eat?	During the day. | In the morning. | In the evening. | At midnight.
+v7w_2381294.jpg	When was the picture taken?	Nightttime. | Daytime. | Afternoon. | Morning.
+v7w_2381297.jpg	Where are the trains?	On the tracks. | In town. | In tunnels. | Over the bridge.
+v7w_2381359.jpg	Where will the celebration be?	Malayan Plaza Hotel. | Malayan Hilton Hotel. | Malayan Luxury Hotel. | Malayan Ramada Inn.
+v7w_2381443.jpg	When was the picture taken?	Daytime. | Nighttime. | Afternoon. | Sunset.
+v7w_2381508.jpg	When will she leave?	Soon. | Tomorrow. | Next week. | Tonight.
+v7w_2381512.jpg	When is this child going to finish eating this donut?	Sometime soon. | 5 minutes. | 10 minutes. | 20 minutes.
+v7w_2381829.jpg	When was this photo taken?	A sunny day. | A cloudy day. | A snowy day. | A rainy day.
+v7w_2381896.jpg	Who is in the picture?	There are no people in the image. | The man. | The woman. | The baby.
+v7w_2381896.jpg	Where was the picture taken?	On the street. | At the ymca. | Outside. | On the back porch.
+v7w_2381909.jpg	When was this taken?	During the afternoon. | During the night. | In the morning. | At dawn.
+v7w_2382005.jpg	When was the photo taken?	Daytime. | Nighttime. | Afternoon. | Noon.
+v7w_2382009.jpg	Who is placing the ball on the stand?	The man. | The woman. | The child. | The bear.
+v7w_2382055.jpg	Who is on the bike?	A man. | A woman. | A girl. | A boy.
+v7w_2382062.jpg	Where was the picture taken?	In the park. | At home. | At the mall. | At the beach.
+v7w_2382192.jpg	Who would drive this vehicle?	A pilot. | A train engineer. | A boat captain. | A bus driver.
+v7w_2382210.jpg	Who took the picture?	The photographer. | An old lady. | The professional. | The young boy.
+v7w_2382319.jpg	When was the man blowing the candle?	When the picture was being taken. | Last week. | Yesterday. | In 1990.
+v7w_2382395.jpg	Where are the people standing?	Sidewalk. | Street. | Garden. | Park.
+v7w_2382567.jpg	Who are in the picture?	People. | Animals. | Insects. | Reptiles.
+v7w_285615.jpg	Who is taking a picture?	The lady. | The old man. | The teen girl. | The baby.
+v7w_285615.jpg	Who is smiling?	One man. | The prize winner. | The soccer fan. | The band's lead singer.
+v7w_2382804.jpg	When was this photo taken?	Inside a person's house, during the night. | Inside the garage. | On the patio. | In the garden.
+v7w_285693.jpg	Who has a beard?	The man. | The grandfather. | The woman. | The boy.
+v7w_285693.jpg	Where is the man?	Looking out of the window. | In a home. | In a car. | In a workplace.
+v7w_285704.jpg	Where was picture taken?	In a city. | In a barn. | In a house. | In a car.
+v7w_285704.jpg	When was picture taken?	Night time. | This morning. | Yesterday afternoon. | About an hour ago.
+v7w_285704.jpg	Who waits patiently for traffic to alleviate?	The cars. | The man waiting to cross the street. | The taxi driver. | The young mother.
+v7w_2382871.jpg	Who flies this vehicle?	A pilot. | A co-pilot. | A student. | A random passenger.
+v7w_285766.jpg	When will the train leave?	When people get on. | On schedule. | At noon. | Every day at one PM.
+v7w_285771.jpg	Where is the black tablecloth?	On the table. | On the counter. | On the side table. | In the washer.
+v7w_285772.jpg	Where are the giraffes?	In an area with green grass. | Beside a tree. | By a watering hole. | In the zoo.
+v7w_285772.jpg	Where was the photo taken?	At the zoo. | At the park. | At the library. | At the school.
+v7w_285779.jpg	When is the electrician working?	In the early morning hours. | Late at night. | Noon time. | During lunch.
+v7w_285787.jpg	When are the three people sitting down and talking?	While eating dinner. | During a meeting. | At the breakfast table. | On the couch.
+v7w_285812.jpg	Who has a beard?	The man. | An old man. | A lady. | A puppet.
+v7w_2382994.jpg	When was this picture taken?	Night time. | Evening. | Midnight. | Dawn.
+v7w_2383006.jpg	When was this taken?	Daytime. | At night. | In the morning. | In the summer.
+v7w_285869.jpg	Where is an atm shown?	In the building. | By the front door of the bank. | In the lobby of the hotel. | By the magazines at the 7-11.
+v7w_285891.jpg	When will the curtains be drawn?	At night. | In the morning. | During a storm. | Sunshines in.
+v7w_285933.jpg	When was this served?	During lunch. | During a hospital stay. | During  breakfast. | During a movie.
+v7w_285946.jpg	Who is wearing a white shirt?	A man. | A boy. | A girl. | A elderly woman.
+v7w_2383101.jpg	Who rides the lift?	Skiers of all skills. | People. | Man. | Woman.
+v7w_285954.jpg	Where is the arrow on the sign pointing?	To the right. | To the left. | Straight ahead. | Behind.
+v7w_285971.jpg	Who are playing with a frisbee?	Two military men. | Wearing fatigues. | Wearing combat boots. | At a children's benefit.
+v7w_285971.jpg	Where was the picture taken?	At a army base. | On a submarine. | On a battleship. | In the airplane.
+v7w_285971.jpg	Who is practicing combat?	Two military men. | The class. | The competitors. | The boys.
+v7w_285983.jpg	Who in the picture has an injured hand?	The third man from the left. | The football player. | The construction worker. | The person wearing the coat.
+v7w_285983.jpg	Who is barefoot?	Man on left. | My best friend. | Everyone on the beach. | The boy with red hair.
+v7w_286032.jpg	Who has blue overalls?	The man. | The woman. | The child. | The teenager.
+v7w_286058.jpg	Who is sitting next to the basket full of fresh heads of cabbage?	The young man. | The merchant. | The man. | The dog.
+v7w_2383214.jpg	Who drives the train?	The conductor. | An engineer. | A man. | The driver.
+v7w_2383341.jpg	Where is the arrow pointing?	Up. | Down. | Left. | Right.
+v7w_2383391.jpg	When was the picture taken?	Sunset. | Sunrise. | At night. | Midday.
+v7w_2383528.jpg	Who has the tennis racket?	The woman. | The referees. | The dog. | The ball boy.
+v7w_2383540.jpg	When is this scene taking place?	Day time. | Nighttime. | Sunset. | Evening.
+v7w_2383557.jpg	When was the photo taken?	Nighttime. | Daytime. | Sunset. | 5:00.
+v7w_2383632.jpg	Who eating from the tree?	The tall giraffe. | The monkey. | The birds. | The squirrel.
+v7w_2383770.jpg	When will the man hit the ball?	When it falls close to him. | When it's pitched correctly. | When he feels like it. | When pigs grow wings.
+v7w_2383792.jpg	When was this photo taken?	During a cooking show. | During a play. | During a movie premier. | During a dinner party.
+v7w_2383995.jpg	When was this picture taken?	Daytime. | Night. | Midnight. | Afternoon.
+v7w_2384011.jpg	Who is in the picture?	A group of friends and family. | Baseball team. | Skateboarders. | Skiers.
+v7w_2384139.jpg	When was the photo taken?	Daytime. | Nightime. | Dusk. | Dawn.
+v7w_2384199.jpg	Where was the picture taken?	On a field. | At a golf course. | At a baseball field. | At a football field.
+v7w_2384199.jpg	When was the picture taken?	Daytime. | Night. | Afternoon. | Sunset.
+v7w_2384319.jpg	Who is looking at the car?	People. | A man. | A student. | A salesman.
+v7w_2384347.jpg	When was the picture taken?	Night. | Early morning. | Afternoon. | Just after dinner.
+v7w_2384410.jpg	When was the picture taken?	During a game. | During a thunderstorm. | During a play. | During supper.
+v7w_2384423.jpg	Where is the mother sitting?	On the couch. | On the chair. | In the living room. | To the left.
+v7w_2384423.jpg	Who is playing with her mom?	Little girl. | The twin boys. | The triplets. | The older daughter.
+v7w_2384526.jpg	When will the planes take off?	When all passengers are on. | When all luggage is onboard. | When fueling is done. | When other planes take off.
+v7w_2384731.jpg	When was the photo taken?	Day time. | After ceremony. | Before race. | Noon.
+v7w_2385228.jpg	Where was this taken?	Park. | From the safe. | In the kitchen. | On the camping trip.
+v7w_2385566.jpg	Where is this location?	Kitchen. | Bathroom. | Patio. | Bedroom.
+v7w_2385632.jpg	When was the picture taken?	Daytime. | Night. | Dusk. | Dawn.
+v7w_2385682.jpg	When was the photo taken?	Outdoors. | Indoors. | At a mall. | At a zoo.
+v7w_2385722.jpg	Where are the planters?	On either side of a path, beyond the tree with the rocks. | By the trees. | In the foreground. | On the benches.
+v7w_2385794.jpg	Where are pillows?	On a chair. | On a sofa. | In a box. | On the floor.
+v7w_2385797.jpg	Where is the sign?	On a pole. | On the building. | On the house. | At the store.
+v7w_2385848.jpg	Where was this photo taken?	Ski slope. | On a mountain. | In a car. | At the zoo.
+v7w_2386154.jpg	When is this picture taken?	During the day. | In the morning. | At noon. | At lunch time.
+v7w_2386194.jpg	When was the picture taken?	Daytime. | Night. | Noon. | Evening.
+v7w_2386216.jpg	When will they ski?	Soon. | When the snow falls. | When they get off the ski lift. | When they put the skis on.
+v7w_2386270.jpg	When is this taken?	During the day. | Afternoon. | Evening. | Morning.
+v7w_2386274.jpg	Where is the tv?	On the nightstand. | Mounted on the wall. | The large screen on the wall. | On top of desk.
+v7w_2386530.jpg	Where is this taken?	In a kitchen. | In the den. | In the living room. | In the bedroom.
+v7w_2386531.jpg	Where is the clock?	On a pole. | On the wall. | On the desk. | On the bed.
+v7w_2386540.jpg	When was this picture taken?	Daytime. | Nighttime. | Early morning. | After dinner.
+v7w_2386590.jpg	When was the photo taken?	Winter. | Summer. | Fall. | Spring.
+v7w_2386605.jpg	When was the photo taken?	During the day. | Sunrise. | Sunset. | After the game.
+v7w_2386651.jpg	When will the woman get up?	After she has finished working on the laptop. | When she is ready to eat. | When she needs to go to the bathroom. | When some one comes to the door.
+v7w_2386730.jpg	Who is in the picture?	Nobody is in the picture. | The husband is in the picture. | The wife is in the picture. | The grandmother is in the mothers.
+v7w_2386733.jpg	When was the picture taken?	During the day. | At night. | Morning. | Lunch.
+v7w_2386733.jpg	Where is the zebra?	At a zoo. | In a field. | By the trees. | Under the straw awning.
+v7w_2386736.jpg	Who is in the water?	The elephants. | The kids. | The three dogs. | The horse.
+v7w_2386866.jpg	When was this taken?	During the renaissance fair. | During a baseball game. | During a visit to the beach. | During a thunderstorm.
+v7w_2386913.jpg	When was the picture taken?	Daytime. | Evening. | Morning. | Afternoon.
+v7w_2386959.jpg	When was the picture taken?	During the day. | Midnight. | Just before sunrise. | Just after sunset.
+v7w_2387025.jpg	Who is waiting for the light to change?	The man in a black coat. | The couple. | The basketball team. | The woman.
+v7w_2387063.jpg	Where was the picture taken?	At a ski resort. | At a hotel. | At a spa. | At a tropical resort.
+v7w_2387310.jpg	Who drives a train?	Conductor. | A man. | A woman. | An intern.
+v7w_2387368.jpg	When was this picture taken?	Daytime. | Christmas. | Fathers Day. | Halloween.
+v7w_2387715.jpg	Who will use it?	A person. | The dog. | The cat. | The horse.
+v7w_2387794.jpg	Where are they having picnic?	Near the lake. | In the backyard. | On the boat. | In the meadow.
+v7w_2387888.jpg	Who is there?	Nobody. | One person. | Two people. | Three people.
+v7w_2388058.jpg	When was the picture taken?	Evening. | Afternoon. | Morning. | Night.
+v7w_2388145.jpg	When was the photo taken?	During the day. | At night. | At dusk. | At daybreak.
+v7w_2388193.jpg	When was this photo taken?	Night. | Winter. | Spring. | Summer.
+v7w_2388205.jpg	When was this taken?	Night time. | At prom. | When it started snowing. | During full moon.
+v7w_2388251.jpg	When would you use this room?	When you needed to pee. | When you wanted to cook. | When you wanted to sleep. | When you wanted to watch television.
+v7w_2388273.jpg	Where was this photo taken?	At a ski competition. | At a soccer game. | At a baseball stadium. | During a tennis match.
+v7w_2388310.jpg	When was the picture taken?	In the daytime. | In the winter. | At night. | At sunrise.
+v7w_2388328.jpg	Where is the dog sitting?	On the ground. | In the truck. | On the porch. | In the backseat.
+v7w_2388328.jpg	When is this photo taken?	05 29 2005. | 02 23 2010. | 07 15 1995. | 05 02 1980.
+v7w_2388460.jpg	When was the picture taken?	During the day. | At night. | Yesterday. | At noon.
+v7w_2388513.jpg	Where is the fence?	To the left of the truck. | Behind the building. | Next to the train. | Under the balcony.
+v7w_2388516.jpg	Who is in the water?	One person. | A swimmer. | The children. | A lifeguard.
+v7w_2388639.jpg	Who is in the picture?	Nobody. | A man. | Chidren. | Two dogs.
+v7w_2389012.jpg	Where was the picture taken?	The subway. | On a plane. | At a park. | In the forrest.
+v7w_2389325.jpg	When was this picture taken?	Mother's Day. | Father's Day. | Fourth of July. | Christmas.
+v7w_2389571.jpg	When was this photograph taken?	In the afternoon. | Yesterday. | Last week. | This morning.
+v7w_2389602.jpg	When was this taken?	While riding in an airplane. | While riding a train. | At night. | In the morning.
+v7w_2389611.jpg	Where are the yellow flowers?	Behind the bird. | In the garden. | In a vase. | In a boquet.
+v7w_2389624.jpg	Where is the Wiimote?	In the lady's hands. | In the man's hands. | On the sofa. | On the coffee table.
+v7w_2389642.jpg	Where is this picture being taken?	On a snow-covered mountain. | At a ski lodge. | At the beach. | In a restaurant.
+v7w_2389642.jpg	Who is in the background?	Several skiers on a lift. | Surfers. | Acrobats. | Band players.
+v7w_2389642.jpg	When was this taken?	In the late day. | In the morning. | At night. | At sunset.
+v7w_2389763.jpg	When is the picture taken?	At daytime. | In the morning. | During the afternoon. | Early evening.
+v7w_2389874.jpg	When you get dirty what do you do?	Take a bath. | Change clothes. | Take a shower. | Wash hands and face.
+v7w_2389912.jpg	Who lives in this area?	Asian people. | Rich people. | Poor people. | Diverse people.
+v7w_2389958.jpg	Who can enter the facility?	Authorized Personnel only. | Everyone. | Only people over 21. | Students only.
+v7w_2390062.jpg	When do people normally eat fruit and bread?	Breakfast. | Lunch. | Dinner. | Snacktime.
+v7w_2390091.jpg	When will she hit?	Now. | Later. | When told to. | At the he end of the play.
+v7w_2390114.jpg	Who is carrying the surfboard?	Men. | A surfer. | A woman. | A child.
+v7w_2390180.jpg	When was this picture taken?	Evening. | Morning. | Afternoon. | Night.
+v7w_2390225.jpg	Who is wearing the yellow and black jacket?	The motorcyclist on the right. | The cyclist. | The child. | The woman.
+v7w_2390259.jpg	Where is the clock?	Over the window. | On the desk. | On the night stand. | On the counter.
+v7w_2390660.jpg	When was the picture taken?	During the day. | At night. | During a typhoon. | At sunrise.
+v7w_2390661.jpg	Who is standing in the picture?	No one. | A girl. | A man. | A woman.
+v7w_2390850.jpg	Where was the picture taken?	At the beach. | At the zoo. | At the boardwalk. | At the baseball game.
+v7w_2390920.jpg	When was the picture taken?	Day time. | Night time. | Noon. | Midnight.
+v7w_2391146.jpg	Where was this photo taken?	At a skatepark. | At the park. | At the baseball game. | At the race track.
+v7w_2391183.jpg	Where was the picture taken from?	A roadway. | On a mountain. | At the zoo. | On a far.
+v7w_2391185.jpg	Where are the people?	Around a table. | Around a fire. | At a bar. | At a concert.
+v7w_2391185.jpg	When was the photo taken?	During a meal. | After a meal. | Before a meal. | While thinking about where to eat.
+v7w_2391207.jpg	When is this picture taken?	2:50. | 3:55. | 4:00. | 12:00.
+v7w_2391285.jpg	Who is picking fruits at far end?	A man. | The woman. | The farmer. | The child.
+v7w_2391323.jpg	Where was this photo taken?	On the dirt. | On a mountain. | In a taxi. | At the zoo.
+v7w_2391475.jpg	Who is this?	Surfer. | A fireman. | A doctor. | A vet.
+v7w_2391498.jpg	Who is with it?	A man. | The mail carrier. | The owner. | The winner.
+v7w_2391593.jpg	When was the photo taken?	Night. | Dawn. | Daytime. | Sunset.
+v7w_2391662.jpg	When was the picture taken?	Daytime. | Night time. | Morning. | Evening.
+v7w_2391759.jpg	Where is this scenario taking place?	An airport. | Street. | Mardi Gras. | Boxing match.
+v7w_2392005.jpg	When was picture taken?	Night. | Day. | Morning. | Afternoon.
+v7w_2392008.jpg	When was this picture taken?	Daytime. | 9:32 p.m. | Night. | Evening.
+v7w_2392107.jpg	Where is this shot?	River. | Ocean. | Pool. | Bathtub.
+v7w_2392166.jpg	When is the picture taken?	2:26pm. | 2:26am. | 3:26pm. | 2:16pm.
+v7w_2392333.jpg	Where are the people?	By the elephant. | On the stairs. | Behind the fence. | In the driveway.
+v7w_2392382.jpg	When was the picture taken?	Daytime. | Midnight. | After the ceremony. | In between bands' sets.
+v7w_2392437.jpg	Who has goggles on?	Both do. | The child swimming. | The snorkeler. | The welder.
+v7w_2392474.jpg	When was this picture taken?	Day time. | Night. | Sunset. | Sunrise.
+v7w_2392810.jpg	When was the picture taken?	In the daytime. | At night. | Dawn. | Dusk.
+v7w_2392874.jpg	Where are the squares?	Wall. | Floor. | Ceiling. | Picture.
+v7w_2392907.jpg	When was the picture taken?	During the day. | At noon. | The evening. | Nighttime.
+v7w_2393107.jpg	Where was the photo taken?	At the bus station. | The airport. | The train station. | A museum.
+v7w_2393107.jpg	When was the photo taken?	Daytime. | Night time. | Dusk. | Dawn.
+v7w_2393214.jpg	When was the picture taken?	During the day. | In the morning. | Afteroon. | Late at night.
+v7w_2393331.jpg	Where was this picture taken?	At a park. | At the lake. | At the house. | At the amusement park.
+v7w_2393340.jpg	When was this taken?	During the day. | During the evening. | In the afternoon. | At dawn.
+v7w_2393408.jpg	Where are the people standing?	On the ground. | In the field. | By their cars. | In line.
+v7w_2393590.jpg	Where is this taking place?	Ski resort. | Mountain slopes. | Background. | Park.
+v7w_2393805.jpg	Who is in the picture?	Girl. | Boy. | Woman. | Men.
+v7w_2393808.jpg	When was photo captured photo taken?	During game. | After game. | Before game. | An hour into game.
+v7w_2393844.jpg	When is this?	Daytime. | Night time. | Summer. | Winter.
+v7w_2393867.jpg	When was the photo taken?	Dusk. | Nighttime. | Morning. | Yesterday.
+v7w_2393877.jpg	Who else can be seen?	No one. | One person. | Two people. | Three people.
+v7w_2393879.jpg	When does this scene occur?	Daytime. | Nighttime. | Dusk. | Dawn.
+v7w_2394034.jpg	Who is eating at the table?	Men. | A family. | Children. | Women.
+v7w_2394148.jpg	Who is sitting in the picture?	No one. | Twins. | Marilyn Monroe. | Elvis.
+v7w_2394178.jpg	When is the scene taking place?	During the day. | During the afternoon. | During the evening. | Near sunset.
+v7w_2394225.jpg	When was the picture taken?	During the tennis game. | In the evening. | At sunrise. | In the morning.
+v7w_2394226.jpg	Where was this photo taken?	The kitchen. | Dining room. | Breakfast nook. | Pantry.
+v7w_2394343.jpg	When was the picture taken?	Summer. | During warm weather. | When it was hot out. | Vacation.
+v7w_2394369.jpg	When was this picture taken?	Daytime. | Night time. | Noon. | Evening.
+v7w_2394390.jpg	When was this picture taken?	Sunset. | Friday. | Saturday. | Sunday.
+v7w_2394390.jpg	Where was this picture taken?	The beach. | Chicago. | Vegas. | Washington DC.
+v7w_2394464.jpg	When was this photo taken?	During the night. | Early morning. | Noon. | Midnight.
+v7w_2394470.jpg	When is the picture taken?	Day time. | Midnight. | Friday. | Last night.
+v7w_2394538.jpg	When did the hot dog come from?	Portito's. | Jack in the box. | In-N-Out Burger. | Wienerschnitzel.
+v7w_2394538.jpg	Where is the ketchup?	In the top left corner. | On the table. | In the refrigerator. | Beside the cups.
+v7w_2394555.jpg	Who is pictured?	Girl. | Family. | Children. | Team mates.
+v7w_2394662.jpg	When was this taken?	Daytime. | Night time. | Evening. | Morning.
+v7w_2394722.jpg	Where is the vase?	On a table. | On the floor. | In a window. | On a couch.
+v7w_2395106.jpg	When is this picture taken?	Dusk. | Very early morning. | Night time. | Daytime.
+v7w_2395112.jpg	Where was the photo taken?	A field. | A park. | A meadow. | A garden.
+v7w_2395401.jpg	Where is this scene?	Outside in the wild. | In a school. | In a house. | At a beach.
+v7w_2395446.jpg	When was this picture taken?	In the day. | At night. | At sunrise. | In the evening.
+v7w_2395612.jpg	Where was the picture taken?	At the beach. | At the pool. | At the river. | At the lake.
+v7w_2395630.jpg	When is the picture taken?	During the day. | At night. | In the morning. | At noon.
+v7w_2395859.jpg	Where are clouds?	In the sky. | High in the sky. | Low over the building. | Under the plane.
+v7w_2395990.jpg	When was this picture taken, during the daytime or nighttime?	Daytime. | At night. | At dawn. | At dusk.
+v7w_2396013.jpg	When was this picture taken?	Day time. | At night. | Morning. | August.
+v7w_2396267.jpg	When was the picture taken?	Daylight. | At night. | In the morning. | Noon.
+v7w_2396305.jpg	Where was this picture taken?	In a living room. | In  the kitchen. | At a park. | At a mall.
+v7w_2396357.jpg	When is the salad being eaten?	During the day. | Right now. | Yesterday. | Previously.
+v7w_2396357.jpg	Who is on the river?	No one. | A fisherman. | A woman. | Two men on the kayak.
+v7w_2396506.jpg	When is he skiing?	Now. | At nighttime. | At dawn. | On Christmas Day.
+v7w_2396629.jpg	Where was this photo taken?	Parking lot. | Wal Mart. | A mall. | Grocery store.
+v7w_2396760.jpg	Where are the people?	On a hill. | In a cafe. | In a cave. | In a cage.
+v7w_2396894.jpg	Where are the clocks?	On top of the building. | In a shop. | At the zoo. | In a museum.
+v7w_2396894.jpg	When is this?	During the day. | At night. | Before sunrise. | In the fall.
+v7w_2396956.jpg	When are these bikes being displayed?	During a convention. | During a sale. | At a race. | At charity event.
+v7w_2397080.jpg	When was this picture taken?	Daytime. | Noon. | Sunrise. | Nighttime.
+v7w_2397235.jpg	Where is the truck?	In the street. | On the side of the road. | On the highway. | Parked in the driveway.
+v7w_2397236.jpg	Who is on the bed?	No one. | A woman. | A child. | A man.
+v7w_2397338.jpg	When was the picture taken?	Morning. | Evening. | Sunset. | Sunrise.
+v7w_2397379.jpg	Where is the lounge bench?	Under the tree. | Beside the pool. | On the porch. | On the deck.
+v7w_2397383.jpg	When was the picture taken?	Daytime. | Morning. | Afternoon. | Mid-day.
+v7w_2397606.jpg	Who is sitting?	The kids. | The old man. | The woman. | The girls.
+v7w_2397682.jpg	Where are the cows lying?	In the field. | In the grass. | By the road. | By the water.
+v7w_2397753.jpg	When was the picture taken?	Night time. | At sunrise. | In the morning. | During daytime.
+v7w_2397829.jpg	When was the picture taken?	During the day. | Yesterday. | Last week. | Last month.
+v7w_2397860.jpg	Where is this scene located?	In a park. | At the pool. | Downtown. | In the street.
+v7w_2397882.jpg	Where are they?	At dinner. | In the mountains. | In a temple. | In the middle of a riot.
+v7w_2397895.jpg	When was the picture taken?	Daytime. | At the beach. | At night. | At the wedding.
+v7w_2397901.jpg	When was this picture taken?	At night. | During the day. | In the summer. | In the air.
+v7w_2397912.jpg	Where are they?	At a wine tasting event. | At the beach. | At a party. | At a restaurant.
+v7w_2398166.jpg	Who is in the photo?	Three women. | Two women. | One woman. | Four women.
+v7w_2398237.jpg	Where is the fire hydrant?	Grass. | On the street. | By the station. | By the house.
+v7w_2398252.jpg	When will they ski?	Soon. | Tomorrow. | Next year. | In the winter.
+v7w_2398323.jpg	When was the photo taken?	During the day. | During vacation. | During the night. | Over the weekend.
+v7w_2398331.jpg	Who is holding this?	The person eating it. | A photographer. | A man. | A young woman.
+v7w_2398384.jpg	When was this photo taken?	During the day at a meal time. | At night afer dinner. | In the morning before breakfast. | At midnight for a midnight snack.
+v7w_2398413.jpg	When was the picture taken?	Afternoon. | At night. | At dawn. | At dusk.
+v7w_2398556.jpg	When was pizza invented?	1889. | 1900. | 1905. | 1910.
+v7w_2398564.jpg	Where was the photo taken?	Outside on the sidewalk. | In the park. | At the zoo. | In a resort.
+v7w_2398621.jpg	Who is on the bench?	No one. | A couple. | Two friends. | A baseball player.
+v7w_2398630.jpg	When was this photo taken?	During daylight. | Nighttime. | Yesterday. | Morning.
+v7w_2398630.jpg	Where is there a hat?	On the lady's head. | On the cloth hanger. | On the chair. | On the table in the hallway.
+v7w_2398828.jpg	Where was the photo taken?	Table. | In the kitchen. | Outside. | In the the garage.
+v7w_2398913.jpg	Who are walking on the platform?	People. | Dogs. | Cats. | Cows.
+v7w_2399020.jpg	When is this occuring?	During the day. | At 2 pm. | Early in the morning. | During the party.
+v7w_2399020.jpg	Where is the bus headed?	West. | East. | North. | South.
+v7w_2399046.jpg	When was the photo taken?	Nighttime. | Daytime. | Evening. | Afternoon.
+v7w_2399144.jpg	Where was this photo taken?	Tennis court. | Public park. | Wimbledon. | Private club.
+v7w_2399249.jpg	Where is the picture taken?	At an outdoor skateboarding ramp. | On a mountain. | In a theatre. | On a beach.
+v7w_2399364.jpg	When was the picture taken?	During the day. | At 12 pm. | In the morning. | In the afternoon.
+v7w_2399374.jpg	Where was the picture taken?	At the baseball field. | In an arena. | On a tennis court. | In the football stadium.
+v7w_2399538.jpg	Who has something in their hand?	A man. | The baby. | The woman. | The preacher.
+v7w_2399617.jpg	Where is the man surfing?	Ocean. | River. | Snow. | Ramp.
+v7w_2399641.jpg	When is the picture taken?	Daytime. | Evening. | Morning. | Night.
+v7w_2399657.jpg	When was the photo taken?	Nighttime. | In the evening. | At sunrise. | In the morning.
+v7w_2399768.jpg	When was this photo taken?	During the day. | During the night. | During the morning. | During the afternoon.
+v7w_2399768.jpg	Where was this photo taken?	In the sky. | In the restaurant. | In the car. | In the plane.
+v7w_2399970.jpg	When was this photo taken?	During the day. | At night. | At twilight. | Early morning.
+v7w_2400158.jpg	When was the pic taken?	During the day. | At midnight. | Just before sunset. | Just after sunrise.
+v7w_2400317.jpg	Who is under the interstate?	Volunteers. | Dogs. | Homeless people. | Construction workers.
+v7w_2400340.jpg	When can people cross here?	Never. | Rarely. | Always. | Usually.
+v7w_2400395.jpg	When was this pic taken?	During the daytime. | In the morning. | At midday. | In the night.
+v7w_2400639.jpg	Who is in the picture?	No one. | Two men. | A child. | A teacher.
+v7w_2400781.jpg	When was this picture taken?	Day time. | Night time. | Morning. | Afternoon.
+v7w_2400790.jpg	Who is wearing a headband?	Player. | Coach. | Umpire. | Fan.
+v7w_2400806.jpg	When was this picture taken?	In the day. | During breakfast. | During eclipse. | Sunrise.
+v7w_2400958.jpg	When was this photo taken?	In the daytime. | At night. | At sunset. | During a blizzard.
+v7w_2401064.jpg	Where is the toilet?	On the left under the window. | In the bathroom. | In the corner. | By the tub.
+v7w_2401154.jpg	Where was this photo taken?	A bathroom. | In a tunnel. | In a kitchen. | At a theatre production.
+v7w_2401155.jpg	Where was this photo taken?	An animal reservation. | A conference room. | A doctor's office. | A meat market.
+v7w_2401245.jpg	When was this image taken?	Daytime. | At Christmas. | Sunrise. | Dusk.
+v7w_2401369.jpg	Who is in the forefront of the image?	A woman on a cell phone. | A man on a cell phone. | Two men. | Two children.
+v7w_2401549.jpg	When is the picture taken?	Day time. | Morning. | Evening. | Night.
+v7w_2401599.jpg	Where is the picture taken?	At the beach. | At the park. | At the courtyard. | At the museum.
+v7w_2401808.jpg	Who is on the skateboard?	The man. | The pilgrim. | Jason Bateman. | Jason Lee.
+v7w_2401842.jpg	When in the day was this photo taken?	During the day. | At night. | During the evening. | In the morning.
+v7w_2401849.jpg	Where is this scene?	In a kitchen. | A dinning room. | The living room. | The bathroom.
+v7w_2402048.jpg	When was this taken?	Daytime. | Last night. | Last week. | Yesterday.
+v7w_2402139.jpg	When was the photo taken?	During the day. | Day time. | Early. | Mid day.
+v7w_2402250.jpg	When is the picture taken?	Night time. | Sunrise. | Sunset. | Daytime.
+v7w_2402495.jpg	When is this taken?	Sunset. | At dawn. | At night. | Daytime.
+v7w_2402548.jpg	Where is this scene occurring?	A kitchen. | The bathroom. | A bar. | A restaurant.
+v7w_2402581.jpg	When was the photo taken?	Daytime. | Nighttime. | Morning time. | Sunset.
+v7w_2402589.jpg	When was this picture taken?	Dusk. | At night. | During the day. | In the evening.
+v7w_2402784.jpg	Where are the group of people?	Behind the fence. | In front of the fence. | Sitting on the fence. | Crawling under the fence.
+v7w_2402790.jpg	Where was the photo taken?	On a street. | On the sidewalk. | On the grass. | On the dirt.
+v7w_2402814.jpg	Where was the photo taken?	Street. | New York City. | Statue of Liberty. | Washington Monument.
+v7w_2402897.jpg	When did the bird go into the tree?	Before this picture was taken. | When it was spooked. | After the rock was thrown. | When it began to rain.
+v7w_2402996.jpg	When is the scene taking place?	Night time. | Sunrise. | Sunset. | Early morning.
+v7w_2403114.jpg	When was this photo taken?	During daylight. | In the morning. | At night. | Christmas.
+v7w_2403184.jpg	When was this photo taken?	Daytime. | At night. | Sunrise. | Sunset.
+v7w_2403210.jpg	Who is holding the bat?	The batter. | Baseball player. | The person in the dugout. | The bat boy.
+v7w_2403210.jpg	Where is the man standing?	On a baseball field. | In a kitchen. | On a tennis court. | In a classroom.
+v7w_2403238.jpg	Who is in the pic?	A man. | A lady. | A boy. | A girl.
+v7w_2403296.jpg	When was the photo taken?	Daytime. | At night. | At dawn. | At dusk.
+v7w_2403391.jpg	When will they leave?	When they get tired of being there. | When it gets too hot. | When it gets dark. | When it is time for dinner.
+v7w_2403411.jpg	When was this picture taken?	At night. | During the day. | At dawn. | At dusk.
+v7w_2403709.jpg	Where was this picture taken?	Next to a street. | At the pool. | By the school. | In the yard.
+v7w_2403864.jpg	When was this picture taken?	During daylight. | At night. | At dusk. | At dawn.
+v7w_2403871.jpg	Who is getting onto the bus?	Nobody. | A man. | A dog and old woman. | A child.
+v7w_2403963.jpg	Where are the people?	On the brick road. | Where did you fall down. | Where did you get in the car wreck. | Where do you think you dropped your keys.
+v7w_2404122.jpg	When was the picture taken?	During the day. | When clouds passed over the sun. | When the man came to visit. | When the zebra escaped into the parking lot.
+v7w_2404186.jpg	When was this taken?	Daytime. | Nighttime. | Morning. | Evening.
+v7w_2404356.jpg	Where is the car?	Parked. | In the street. | At the gas station. | In the garage.
+v7w_2404368.jpg	Who is standing?	Two people. | My parents. | The graduates. | My teacher.
+v7w_2404472.jpg	When was this photo taken?	Winter. | At night. | In the morning. | In the afternoon.
+v7w_2404499.jpg	Who is playing tennis?	Guy in photo. | Graff. | The gray haired couple. | The guy with a six-pack.
+v7w_2404573.jpg	When was the picture taken?	During the day. | During the night. | During a rain storm. | After the sun set.
+v7w_2404575.jpg	When was the photo taken?	Afternoon. | At dawn. | At night. | At dusk.
+v7w_2404616.jpg	When is this?	Nighttime. | Early morning. | At sunset. | At sunrise.
+v7w_2404725.jpg	When was this photo taken?	Day time. | Night time. | Afternoon. | Morning.
+v7w_2404734.jpg	When was the picture taken?	During a party. | At a wedding. | During a celebration. | Graduation.
+v7w_2404925.jpg	Where is the plane flying?	Over mountains. | Over the house. | Into the airport. | Near the mountains.
+v7w_2405084.jpg	Where are donuts?	In boxes. | In stacks. | On display. | In mouths.
+v7w_2405205.jpg	Where was the picture taken?	In a park. | A house. | A mansion. | White house.
+v7w_2405231.jpg	When was the pic teken?	At night. | During the day. | At dawn. | At dusk.
+v7w_2405390.jpg	When was the photo taken?	At noon. | At one. | At three. | At four.
+v7w_2405728.jpg	When was the picture taken?	During the day. | At night. | In the afternoon. | In the morning.
+v7w_2405836.jpg	Where was the picture taken?	Walkway. | Street. | Intersection. | Sidewalk.
+v7w_2405908.jpg	When was the pic taken?	During the day. | During the night. | In the morning. | In the evening.
+v7w_2405935.jpg	Who is in the photo?	Two men. | A child. | No one. | A woman.
+v7w_2406194.jpg	Who is in the picture?	The woman. | Man. | Child. | Couple.
+v7w_2406410.jpg	Who hit the tennis ball?	The woman. | The man. | The young girl. | The young boy.
+v7w_2406445.jpg	When is this taken?	During the winter. | During the spring. | During the summer. | During the fall.
+v7w_2406540.jpg	When are the lights on in the building?	Now. | All the time. | Daytime. | Night time.
+v7w_2406829.jpg	When was the picture taken?	During the day. | Midnight. | Early morning. | Evening.
+v7w_2406943.jpg	Who is in the photo?	A woman. | A man. | A child. | A teenager.
+v7w_2406947.jpg	Who is the focus of the picture?	The zebra. | Giraffe. | Animal. | Horse.
+v7w_2407007.jpg	Who is on the scooter?	No one. | 1. | 2. | 3.
+v7w_2407021.jpg	Where is the picture taken?	Baseball stadium. | Football stadium. | Tennis court. | Golf course.
+v7w_2407043.jpg	Where was this picture probably taken?	Zoo. | Forest. | Pasture. | Farm.
+v7w_2407094.jpg	Where are they?	On the mountains. | On the hill. | On the slopes. | In the valley.
+v7w_2407370.jpg	When was this photo taken?	During the day. | Daylight. | Afternoon. | Morning.
+v7w_2407583.jpg	Who is the bird looking?	In the mirror. | Its nest. | At predators. | A potential mate.
+v7w_2407637.jpg	When was the picture taken?	During the day. | Afternoon. | Midnight. | Evening.
+v7w_2407811.jpg	When will the cake get tasted?	When slices are passed out. | Soon. | When the kids get it. | At the party.
+v7w_2407811.jpg	Who is looking at the cake?	The photographer. | The kids. | The baker. | No one.
+v7w_2407872.jpg	When was the picture taken?	Rainy day. | Wednesday. | June 1, 2015. | Last winter.
+v7w_2408089.jpg	Where was this photo taken?	On a ski slope. | In a house. | In the yard. | In a museum.
+v7w_2408123.jpg	Who is on the bridge?	The man on his phone. | A woman with a map. | A boy with a balloon. | A girl with a doll.
+v7w_2408312.jpg	Where are the signs hanging?	On the lampposts. | From the pole. | Under the bridge. | From the ceiling.
+v7w_2408395.jpg	Who has a green tank top?	The lady in the front row. | The man in the middle. | The lady in back. | The child in the center.
+v7w_2408421.jpg	Where is this activity?	A tennis court. | A baseball field. | A swimming pool. | A football field.
+v7w_2408457.jpg	Where is the bus?	On a road. | In the parking lot. | In the field. | At the junk yard.
+v7w_2408728.jpg	Who flies the airplane?	The pilot. | The automatic control system. | The action star. | The captain.
+v7w_2408894.jpg	Where is the cat?	In a suitcase. | On the bed. | In the closet. | In the kitchen.
+v7w_2409017.jpg	Where was the pic taken from?	Sea. | Temple. | Lake. | Cabin.
+v7w_2409051.jpg	Who is this walkway for?	Civilians. | Bikes. | Pedestrians. | Animals.
+v7w_2409100.jpg	Where was this photo taken?	At the bike race. | At the beach. | The zoo. | A baseball game.
+v7w_2409308.jpg	When was the picture taken?	At night. | During a power outage. | In the middle of a storm. | In an eclipse.
+v7w_2409478.jpg	When was the pic taken?	In the evening. | In the morning. | In the afternoon. | At night.
+v7w_2409688.jpg	Who are in the boats?	Rowers. | Refugees. | Fishermen. | Sailors.
+v7w_2409908.jpg	Where does the picture take place?	Bathroom. | Kitchen. | Living room. | Bedroom.
+v7w_2409908.jpg	When do you know its a bathroom?	The toilet. | The bathtub. | The medicine cabinet. | The shower.
+v7w_2409927.jpg	When was this picture taken?	Sunrise. | At night. | In the morning. | In winter.
+v7w_2409953.jpg	When was the pic taken?	During the day. | When the sun was out. | When it was light outside. | Before nightfall.
+v7w_2409968.jpg	Who is in the mirror?	A woman. | A man. | A girl. | A boy.
+v7w_2410034.jpg	Who is in the picture?	Woman. | Man. | Child. | Dog.
+v7w_2410051.jpg	When was the pic taken?	At night. | At midnight. | At dawn. | At twilight.
+v7w_2410051.jpg	Where was the picture taken from?	In a kitchen. | A plane. | A hill. | A ladder.
+v7w_2410079.jpg	Who is on the field?	A man. | A boy. | A woman. | A dog.
+v7w_2410111.jpg	When was this picture taken?	It was taken during the day. | It was at twilight. | It was on a rainy day. | At the beach.
+v7w_2410157.jpg	When was this taken?	During the day. | During the night. | At dawn. | At dusk.
+v7w_2410213.jpg	Who is jet skiing?	A man. | A woman. | A boy. | A girl.
+v7w_2410226.jpg	Who is wearing a red cap?	Man waving. | Women waving. | Child waving. | Me waving.
+v7w_2410242.jpg	Who is bald?	Man back left. | The man. | They man next to the child. | The person on the right.
+v7w_2410314.jpg	Where was the photo taken?	In the intersection. | Beach. | TImes Square. | Hotel.
+v7w_2410456.jpg	When was picture taken?	Daytime. | Nighttime. | Morning. | Sunset.
+v7w_2410564.jpg	Where is this place?	Zoo. | Amusement Park. | Theme Park. | Nature Preserve.
+v7w_2410609.jpg	When was the pic taken?	During the day. | At night. | In the morning. | After dinner.
+v7w_2410609.jpg	Who is in the pic?	A man. | A woman. | A child. | A baby.
+v7w_2410622.jpg	Where is the clock?	On the tower wall. | On the shelf. | Beside the bed. | In the living room.
+v7w_2410633.jpg	Where was the picture taken from?	On clay tennis courts. | On a baseball field. | In a locker room. | In a laboratory.
+v7w_2410666.jpg	Who else is in the photo?	Other skiers and snowboarders. | The mom. | The dad. | A child.
+v7w_2410669.jpg	Who is the skier?	A man. | A woman. | A little girl. | A little boy.
+v7w_2410752.jpg	When was the pic taken?	During the day. | At a party. | At 6 am. | During the thunderstorm.
+v7w_2410925.jpg	When was the photo taken?	During the day. | On a sunday. | On his birthday. | At night.
+v7w_2410979.jpg	Where is the man?	In a field. | On the street. | In the car. | On the motorcycle.
+v7w_2410997.jpg	Where are the elephants standing?	Grass. | Dirt. | Water. | Rocks.
+v7w_2410997.jpg	When are the elephants gathered?	Daytime. | Noon. | Morning. | Dawn.
+v7w_2411372.jpg	Where was this picture taken?	On the street. | In the bathroom. | At the mall. | At the beach.
+v7w_2411435.jpg	Where are they?	In a city. | On a farm. | On a train. | Inside the house.
+v7w_2411546.jpg	When was this picture taken?	The daytime. | In the day. | Around noon. | When the sun was in the sky.
+v7w_2411587.jpg	Who sitting on the bench?	No one. | One person. | Two people. | Someone is getting up.
+v7w_2411632.jpg	When was this photo taken?	During the day. | Yesterday. | Last night. | 4 pm.
+v7w_2411736.jpg	When was this picture taken?	Daytime. | During dusk. | During dawn. | During night.
+v7w_2411736.jpg	Who is wearing gloves?	Man. | The woman. | The young girl. | The young boy.
+v7w_2411770.jpg	When was this photo taken?	Night time. | Noon. | March. | Winter.
+v7w_2412024.jpg	When is fruit often eaten?	As a snack. | For breakfast. | In the morning. | During summer.
+v7w_2412062.jpg	Where do they ride at?	Mountain trail. | City park. | Rocky trail. | Road.
+v7w_2412204.jpg	When will the food to the left of the girl in green get eaten?	When the person that is supposed to fill that chair arrives. | On Christmas. | After saying Grace. | After it's cooked.
+v7w_2412238.jpg	Where was the photo taken?	On the street. | Outside. | In the town. | In the city.
+v7w_2412238.jpg	When was the photo taken?	The daytime. | Before noon. | After morning. | Before night.
+v7w_2412244.jpg	Where is the toilet?	In a flower bed. | On the grass. | In the yard. | On the sidewalk.
+v7w_2412274.jpg	When was this taken?	During the day. | At night. | At sunrise. | At dusk.
+v7w_2412379.jpg	When is he going to surf?	Right now. | Later today. | Tomorrow. | This afternoon.
+v7w_2412511.jpg	When was the picture taken?	Daytime. | Sunset. | Sunrise. | Nighttime.
+v7w_2412651.jpg	Where is the man?	At a park. | Train station. | Restaurant. | Bus stop.
+v7w_2412937.jpg	Where was this picture taken?	On the street. | By a gate. | On a sidewalk. | On a path.
+v7w_2412950.jpg	When was this picture taken?	During the day. | At night. | Morning. | Noon.
+v7w_2412995.jpg	When is this taking place?	During the day. | At night. | Past noon. | At dusk.
+v7w_2413169.jpg	When would these bears be an appropriate gift?	Christmas. | Easter. | Birthday. | Thanksgiving.
+v7w_2413328.jpg	Where is the woman?	On a tennis court. | At the supermarket. | At the beach. | In a car.
+v7w_2413461.jpg	When is the woman holding?	Tennis Racket. | Baseball glove. | Onions. | Bat.
+v7w_2413583.jpg	Who is holding the horse?	An Asian girl. | A young woman. | A lady. | A teenager.
+v7w_2413783.jpg	Who is skateboarding?	A guy wearing all black. | A bulldog. | A toddler. | Santa.
+v7w_2413792.jpg	Where did the water reach?	Inside the house. | The end of the tunnel. | The bottom of the mountain. | Behind the wall.
+v7w_2413856.jpg	Who is sitting in the background?	Spectators. | Crowd. | Family. | Friends.
+v7w_2413917.jpg	Where is the man's skateboard?	Next to his hand. | On the ground. | In the puddle. | Stuck in a tree.
+v7w_2414020.jpg	Where is the cup?	On a plate. | In someone's hand. | On the table. | On the floor.
+v7w_2414205.jpg	Where is there rider wearing on his head?	Helmet. | Hat. | Bandana. | Googles.
+v7w_2414382.jpg	Who is in the water?	The surfer. | The lifeguard. | The swimmer. | A waterskiier.
+v7w_2414465.jpg	When was this picture taken?	Evening. | Afternoon. | Later that day. | After morning.
+v7w_2414470.jpg	Where was this picture taken?	Inside of a car. | Inside of a home. | In a park. | In the sun.
+v7w_2414486.jpg	When is the photo taken?	Spring or summer. | Winter. | Fall. | In the early 1980's.
+v7w_2414555.jpg	Who is this man?	A salesman. | A fireman. | A Sheriff. | A taxi driver.
+v7w_2414591.jpg	When it this?	Daylight. | Nighttime. | Dusk. | Dawn.
+v7w_2414718.jpg	Where is the zone sign?	The middle. | Between other signs. | Next to the street. | In the center.
+v7w_2414787.jpg	When does this picture take place?	At night. | Morning. | Noon. | Sunset.
+v7w_2414866.jpg	When was the photo taken?	In the daytime. | May. | Ten years ago. | Yesterday.
+v7w_2414928.jpg	When was the photo taken?	Winter. | Today. | December. | 5 years ago.
+v7w_2414964.jpg	When was this picture taken?	During the day. | At night. | Halloween. | Christmas.
+v7w_2414978.jpg	Who is in the picture?	Nobody. | A little girl. | A small boy. | An old man.
+v7w_2414994.jpg	When was the photo taken?	Sometime during the day. | In the morning. | After dinner. | At the graduation party.
+v7w_2415012.jpg	When should the water be filled?	When someone is using it. | When they need to drink. | At night. | Tomorrow.
+v7w_2415094.jpg	When was the picture taken?	On Emme's birthday. | On ground hogs day. | On Christmas. | On Easter.
+v7w_2415173.jpg	Where is the man surfing?	Ocean. | Sea. | Lake. | Wave pool.
+v7w_2415258.jpg	When was the pic taken?	During the day. | At night. | Sunset. | Sunrise.
+v7w_2415299.jpg	When was this photo taken?	During daytime hours. | During nighttime hours. | In the afternoon. | In the evening.
+v7w_2415500.jpg	Who is in the picture?	No one is in the picture. | A boy. | A man and woman. | A girl.
+v7w_2415512.jpg	Where was this photo taken?	Near a train track. | On a boat. | At the zoo. | In a car.
+v7w_2415569.jpg	Where was this photo taken?	Beach. | Desert. | Mountain. | Jungle.
+v7w_2415647.jpg	Where are the napkins?	Plate. | The napkin holder. | In people's laps. | On the table.
+v7w_2415725.jpg	When is this?	Night. | Day. | Morning. | Dawn.
+v7w_2416151.jpg	Where is it?	In the bathroom. | In the bedroom. | In the kitchen. | In the living room.
+v7w_2416151.jpg	When is the bathroom used?	When it is needed. | Often. | After dinner. | Never.
+v7w_2416180.jpg	Who is riding?	Man. | Woman. | Child. | Dog.
+v7w_2416409.jpg	Where is giraffe?	On the right. | On the left. | Background. | Foreground.
+v7w_2416444.jpg	Where was the photo taken?	Train station. | Bus station. | Parking lot. | Marina.
+v7w_2416470.jpg	Where was this picture taken?	Baseball field. | Football field. | Basketball court. | Hockey rink.
+v7w_2416498.jpg	When was the picture taken?	At night. | In the daytime. | At dawn. | At dusk.
+v7w_2416513.jpg	Where is the picture taken?	On the street corner. | In the parking lot. | At an intersection. | In the garage.
+v7w_2416528.jpg	When will the kites fly?	When it is windy. | In the afternoon. | When it stops raining. | When storm stops.
+v7w_2416528.jpg	Where was the photo taken?	The beach. | The farm. | A winery. | A ghost town.
+v7w_2416543.jpg	Where is the man?	Ocean. | In the park. | On the hill. | At church.
+v7w_2416543.jpg	When was this taken?	During the day. | Sunrise. | Sunset. | At night.
+v7w_2416756.jpg	When was this photographed?	Daytime. | Night time. | Evening. | Afternoon.
+v7w_712983.jpg	Where is the train?	Inside a building. | Coming down the tracks. | Entering the station. | On track number 9.
+v7w_713004.jpg	When was picture taken?	During daytime hours. | Night. | Morning. | Dawn.
+v7w_2416942.jpg	Where was this picture taken?	Within city limits. | In the woods. | In a field. | In a barn.
+v7w_713007.jpg	When was this picture taken?	During daytime hours. | During sunset. | Many years ago. | Yesterday during lunch.
+v7w_2416956.jpg	Where is the guy?	On a tennis court. | Baseball field. | Basketball court. | Soccer field.
+v7w_713031.jpg	Who has rolled up jeans?	The man on the left. | The girl on the bike. | The little boy. | The guy on the subway.
+v7w_713040.jpg	Where are they?	In a restaurant. | At a baseball game. | At a wedding. | In a park.
+v7w_713043.jpg	Where is the family together?	In the living room. | In the basement. | In the store. | On a cruise.
+v7w_713043.jpg	Where is she running?	To the other side of the room. | To back of room. | To front of room. | To outside of room.
+v7w_713099.jpg	When does the scene take place?	During the day. | In the evening. | At night. | In the morning.
+v7w_713106.jpg	Who has her back turned?	A person. | The bride. | The carpenter. | The doctor.
+v7w_2417060.jpg	When was this taken?	During the day time. | In the morning. | Early afternoon. | At dusk.
+v7w_2417065.jpg	Where was this taken?	Train station. | On the street. | Near railroad. | Near trains.
+v7w_713153.jpg	Who has curly hair?	The man on the green bench, beside the woman in the purple tights. | The boy. | The man. | The woman.
+v7w_713153.jpg	Who is wearing a scarf?	The woman. | The girl. | The kids. | The lady.
+v7w_713154.jpg	Where is the fire hydrant?	In the yard. | On the road. | Beside the car. | In the ground.
+v7w_713166.jpg	Where is a cafe?	On the corner. | Up the block. | In the city. | Across the way.
+v7w_713200.jpg	Who is in the photo?	Many people. | One person. | A toddler. | A baby.
+v7w_713200.jpg	Where are they eating?	Conference room. | Dining hall. | Hotel lobby. | Ballroom.
+v7w_2417142.jpg	Who is wearing a striped shirt?	The man. | A woman. | A boy. | A girl.
+v7w_713213.jpg	Who is facing the camera?	No one. | Everyone. | One man. | One woman.
+v7w_713213.jpg	When are the skiers watching the sun?	Sun set. | Sunrise. | In the afternoon. | When it comes out from behind a cloud.
+v7w_713255.jpg	Where is this photo of?	A street and some buildings. | The playground. | The hospital. | The lake.
+v7w_2417245.jpg	Where was this photo taken?	On a sidewalk. | On a street. | In a field. | In a forest.
+v7w_2417258.jpg	Where is the cat?	On the ground. | On two wheels. | The sidewalk. | In front of the building.
+v7w_713337.jpg	Who is on the other side of the fence?	A man. | A woman. | A little boy. | A dog.
+v7w_713350.jpg	Where is the photo taken?	In a house. | In a barn. | In a pet store. | In an office.
+v7w_713394.jpg	Where are two boats headed?	The same way. | East. | Right. | To deeper water.
+v7w_713452.jpg	Where are they?	Beach. | At home. | At work. | On vacation.
+v7w_713452.jpg	When in a day is it?	Daytime. | Night. | Evening. | Afternoon.
+v7w_713456.jpg	Who has their back turned to the camera?	Everyone. | One person. | The group. | A man.
+v7w_713494.jpg	Where was this photo taken?	Baseball field. | Football Stadium. | Basketball court. | Tennis court.
+v7w_713494.jpg	Who is wearing a black shirt?	Umpire. | The man. | The chef. | The woman.
+v7w_713550.jpg	Who is crossing the street?	Line of people. | The chicken. | An elderly lady. | The school child.
+v7w_713550.jpg	Where is this scene happening?	In a large city. | In the village. | At the mall. | At home.
+v7w_713577.jpg	When does the clock change time?	Every second. | At 12 noon. | At midnight. | Every hour.
+v7w_713618.jpg	Who is wearing shorts and a helmet?	A cyclist. | A motorcyclist. | The driver. | The traveler.
+v7w_713666.jpg	Who is seated in the bus?	No one. | A family. | A doctor. | A homeless person.
+v7w_713691.jpg	Where are these people?	At a baseball game. | At home. | In the park. | At the library.
+v7w_713691.jpg	Where is the batter swinging?	At the pitch. | For the fence. | In the batting cage. | At the plate.
+v7w_713693.jpg	Where do the arrows face on the big yellow sign?	To the left. | To the right. | To the center. | To the back.
+v7w_713708.jpg	Where are they eating?	At picnic tables. | At a restaurant. | At a home. | At a school cafeteria.
+v7w_2417646.jpg	When was this taken?	During the day. | During a rain storm. | After a blizzard. | Just before sunrise.
+v7w_713719.jpg	Who are buying sheep?	Lucy and ethel. | Dan and pat. | Jackie and jill. | Susie and delano.
+v7w_713750.jpg	Who has glasses?	Woman. | Men. | Children. | Friends.
+v7w_2417700.jpg	When was this picture taken?	Daytime. | During the summer. | Winter time. | Morning.
+v7w_713776.jpg	Who is wearing a red sweater?	A man. | The woman. | The kid. | The man from next door.
+v7w_713783.jpg	Where was this photo taken?	At a house. | At a farm. | At school. | At a hospital.
+v7w_713788.jpg	Who has bright headlights?	The traffic on this street. | Ambulances. | Police cars. | Fire trucks.
+v7w_713795.jpg	Where does this scene take place?	Performance. | The play. | The beach. | The game.
+v7w_713801.jpg	Where can people be seen within the boat?	On the deck. | In the galley. | On the sail. | On the rudder.
+v7w_713806.jpg	Where is this taking place?	The park. | The lake. | The beach. | The mountains.
+v7w_713834.jpg	Where is the oregano, parmesan and hot chili peppers?	On the table. | On the counter. | On stove. | On the rack.
+v7w_713879.jpg	Who is sitting by the water?	Men. | Birds. | Alligator. | Married couple.
+v7w_713879.jpg	Who is watching guy with phone?	Man in red shirt. | Woman in blue blouse. | A young boy. | The director.
+v7w_713882.jpg	Who stays at this spot?	Bus takers. | Taxi drivers. | The actor. | The secretary.
+v7w_713889.jpg	When was picture taken?	During day time. | Evening. | Morning. | Night time.
+v7w_713889.jpg	Who is wearing a plastic rain cape?	A man. | A lady. | Kids. | Grandmother.
+v7w_713911.jpg	Where the black awnings?	On the storefront. | Behind the house. | Next to the mansion. | By the building.
+v7w_713944.jpg	Where is this scene?	The uk. | Home. | The us. | The mall.
+v7w_2417914.jpg	When was this photo taken?	During the day. | At night. | At sunrise. | At sunset.
+v7w_2417959.jpg	Where was this photo taken?	Baseball field. | Tennis court. | Ski slope. | Skatepark.
+v7w_61587.jpg	Where was the photo taken?	At the zoo. | From a helicopter. | In the air. | Under water.
+v7w_61587.jpg	Where was the photo taken?	At the zoo. | A tennis match. | A basketball game. | A football game.
+v7w_61607.jpg	When is the game over?	When one of the players wins. | When one of the players is disqualified. | When one of the players quits. | When time runs out.
+v7w_61607.jpg	Where is the referee seated?	On a chair overlooking the game. | In the bleachers. | By third base. | In the outfield.
+v7w_61607.jpg	Where is the sport being played?	At a tennis court. | At a baseball field. | At a skateboard park. | At a beach.
+v7w_2371551.jpg	Where is this taken?	In the desert. | The hill. | The village. | The hotel.
+v7w_2373117.jpg	Where was this picture taken?	At a baseball field. | At the zoo. | At the mall. | At a concert.
+v7w_713091.jpg	Who is wearing a pink coat?	The little girl. | The old lady. | The teenage girl. | The feminine gentleman.
+v7w_713091.jpg	Who's wearing a hat?	The woman. | The batter. | The two kids playing in the snow. | The boy on the left.
+v7w_713564.jpg	Who is not wearing socks?	The girl. | The guy. | The man. | The woman.
+v7w_713607.jpg	Where are there shades on the second floor windows?	The closest building. | The house. | The apartment building. | The school.
+v7w_2315573.jpg	Who is highest?	Nearest man. | Furthest man. | Nearest woman. | Furthest wpman.
+v7w_713612.jpg	Where is graffiti?	On the sidewalk. | On a building. | On a train car. | In a tunnel.
+v7w_713612.jpg	Who is wearing sunglasses?	Woman on left. | The children. | People outside. | A man in the middle.
+v7w_2315860.jpg	Where is the sign?	Beach. | At the park. | Side of the road. | On the wall.
+v7w_2315911.jpg	When is it?	Day time. | Night time. | Twilight time. | Dawn.
+v7w_2315990.jpg	When was the photo taken?	A windy day. | A Sunny Day. | A Hot Day. | A Rainy Day.
+v7w_713710.jpg	Where is the motorcycle?	On pavement. | Near the curb. | In the intersection. | Near a bar.
+v7w_2316186.jpg	When was the photo taken?	During the day. | During the night. | During the evening. | During the storm.
+v7w_2316243.jpg	When did the dog arrive?	No dog. | 10 minutes ago. | This afternoon. | At noon.
+v7w_2316367.jpg	When was this picture taken?	Day time. | At night. | Sunrise. | Sunset.
+v7w_2316394.jpg	When was this photo taken?	When the plane was outside. | At dinner. | At sunset. | In the morning.
+v7w_2316533.jpg	Where is the building?	Behind the elephant. | In front of the elephant. | Beside the elephant. | Across from the elephant.
+v7w_2316689.jpg	Who is in the picture?	No one is in the picture. | A man. | The players. | The clown.
+v7w_2316706.jpg	When was the picture taken?	During the daytime. | During the nighttime. | During the morning. | During the afternoon.
+v7w_2316764.jpg	Who is in the picture?	Giraffe. | The Pope. | The mechanic. | Walt Disney.
+v7w_2317026.jpg	Who is eating the soup?	No one. | The man. | The woman. | Everyone.
+v7w_2317057.jpg	Who is in the picture?	Nobody. | Clowns. | Dogs. | A priest.
+v7w_2317082.jpg	When was the picture taken?	During the daytime. | During thunderstorm. | While the river was flooding. | While she sneezed.
+v7w_2317433.jpg	When was the photo taken?	During the day. | Night. | Sunset. | Sunrise.
+v7w_2317500.jpg	When is the picture taken?	During daylight. | At night. | At sunset. | At sunrise.
+v7w_2317580.jpg	When was this taken?	During the day. | Winter. | Dusk. | Spring.
+v7w_2317580.jpg	Where is the man?	In a field. | In a van. | By a river. | In a canoe.
+v7w_2317606.jpg	Where is the man standing?	The snow. | Next to a flag pole. | Inside the church. | Next to his new car.
+v7w_2317659.jpg	Who is in the water?	The man. | The swimmers. | Surfers. | The children.
+v7w_2317701.jpg	Who is on the boat?	One person. | A group of people. | A family. | A couple.
+v7w_2317933.jpg	When was the picture taken?	Afternoon. | Morning. | Night. | Dusk.
+v7w_2317940.jpg	When was the picture taken of the skateboarder?	Nighttime. | Daytime. | Midday. | In the early morning.
+v7w_2318136.jpg	Where was this picture taken?	At a train station. | A depot. | A parking garage. | A mechanic shop.
+v7w_2318247.jpg	When was the photo taken?	Evening. | Night. | Dinner. | Sunset.
+v7w_2318375.jpg	Who is holding the bat?	The man in the maroon helmet. | The player. | The coach. | The umppire.
+v7w_2318395.jpg	When airline is this?	United. | Delta. | SouthWest. | AirTran.
+v7w_2318517.jpg	When was this taken?	During the day. | At night. | At holloween. | On vacation.
+v7w_2318617.jpg	When was the picture taken?	At night. | After dinner. | Before breakfast. | Just before the storm hit.
+v7w_2318719.jpg	When was this taken?	During the day. | Sunrise. | Sunset. | Night.
+v7w_2318869.jpg	When was this photo taken?	Day time. | Morning. | Noon. | Yesterday.
+v7w_2318895.jpg	Where is this picture taken?	Woods. | Beach. | Field. | Desert.
+v7w_2318947.jpg	Who is with the zebra?	Nobody. | Another zebra. | A dog. | A zookeeper.
+v7w_2318950.jpg	Who is sitting on the bench?	Nobody. | A clown. | A priest. | A baboon.
+v7w_2318992.jpg	When was the photo taken?	Daytime. | Night time. | Dusk. | Dawn.
+v7w_2318992.jpg	Who is taking a picture?	The boy. | The girl. | The woman. | The father.
+v7w_2319097.jpg	When was picture taken?	During daylight. | At night. | At dawn. | At dusk.
+v7w_2319225.jpg	Where was this photo taken?	In a zoo. | At a military ball. | In the woods. | In the swamp.
+v7w_2319308.jpg	Where was this taken?	On a porch or deck. | Zoo. | Beach. | Park.
+v7w_2319374.jpg	Who took the picture?	The girl. | A child. | A woman. | My Grandmother.
+v7w_2319374.jpg	When was the picture taken?	Summer. | At night. | During lunch. | In 1950.
+v7w_2319424.jpg	When was this image taken?	Daytime. | At night. | Morning. | Noon.
+v7w_2319527.jpg	When time of day?	Afternoon. | Noon. | Morning. | Night.
+v7w_2319539.jpg	When is the kitchen light on?	Now. | When it gets dark. | When the cook is in the kitchen. | It always stays on.
+v7w_2319560.jpg	When was the picture taken?	Morning. | Afternoon. | Evening. | Twilight.
+v7w_2319563.jpg	When was the picture taken?	During the daytime. | At night. | Noon. | After school.
+v7w_2319631.jpg	When was the photo taken?	On a cloudy day. | Morning. | Dusk. | Nighttime.
+v7w_2319679.jpg	Who is in the crowd?	Fans. | Spectators. | Men. | Cheering squad.
+v7w_2319689.jpg	Where are they?	In the kitchen. | In the bedroom. | In the bathroom. | In the hall.
+v7w_2319711.jpg	Where is the train?	Train track. | In a box. | In the tunnel. | At  train station.
+v7w_2319852.jpg	When will the smoke stop coming out of the train?	When the train's engine goes off. | When the coal stops burning. | When the train stops. | When the train stops accelerating.
+v7w_2319852.jpg	Where is this photo taken?	At a railroad station. | At a parking lot. | In a store. | At a bus station.
+v7w_2319913.jpg	Who is in the picture?	Skier. | Snowboarder. | Hiker. | Runner.
+v7w_2319973.jpg	Where is the photo taken?	The grass. | Zoo. | Park. | Farm.
+v7w_2320070.jpg	Where is the metal fence?	Along the tree line. | Around the animals. | Along the property line. | On the farm.
+v7w_2320102.jpg	When is this photo taken?	Daytime. | Nighttime. | Dawn. | Dusk.
+v7w_2320177.jpg	When did this picture take place?	It took place in the day time. | In the morning. | In the afternoon. | In the evening.
+v7w_2320322.jpg	Where was the picture taken?	Outdoors. | In the backyard. | In a park. | On a riverbank.
+v7w_2320409.jpg	When was the picture taken?	Daytime. | Nighttime. | Dark time. | After dark.
+v7w_2320419.jpg	Where was the photo taken?	Zoo. | Park. | Mountains. | The woods.
+v7w_2320907.jpg	Where is the plane?	In the sky. | On the ground. | In the water. | In Ireland.
+v7w_2320953.jpg	When was the picture taken?	Daytime. | Night. | Yesterday. | Last week.
+v7w_2321036.jpg	When was this picture take?	Daytime. | Last week. | Yesterday. | Today.
+v7w_2321063.jpg	When was the photo taken?	Dusk. | Midnight. | Early morning. | Late night.
+v7w_2321256.jpg	Where was the picture taken?	On a bed. | In an alfalfa field. | In the rain. | Under the bridge.
+v7w_2321297.jpg	Who is wearing white socks?	The man sitting on the couch. | The girl. | Woman. | Boy.
+v7w_2321333.jpg	When is this?	Daytime. | Morning. | Nighttime. | Evening.
+v7w_2321346.jpg	Who is in the photo?	Giraffe. | Granny. | Polar Bears. | Penguins.
+v7w_2321368.jpg	When during the day was the picture taken?	Daytime. | Morning. | Noon. | Dusk.
+v7w_2321387.jpg	When was the picture taken?	When the sun as almost setting. | At sunrise. | At dusk. | At midnight.
+v7w_2321627.jpg	Who is in the picture?	A man. | A woman. | A teenager. | A family.
+v7w_2321815.jpg	Where is this picture taken?	Restaurant. | Bar. | Kitchen. | School.
+v7w_2321966.jpg	When was this photo taken?	Nighttime. | Day. | Afternoon. | Sunset.
+v7w_2322254.jpg	Where are the pictures?	On the wall. | In an album. | On the computer monitor. | On the iPhone.
+v7w_2322265.jpg	When was this picture taken?	Winter. | Fall. | Spring. | Summer.
+v7w_2322474.jpg	Who is cooking?	The girl. | The mom. | Father. | Daughter.
+v7w_2322514.jpg	Who is at the desk?	A man. | A child. | A student. | A teacher.
+v7w_2322559.jpg	Where are the wheels?	On the bottom of the chair. | On the bottom of the car. | On the bottom of the van. | On the bottom of the toy.
+v7w_2323065.jpg	Who is playing tennis?	Woman. | Man. | Boys. | Girls.
+v7w_2323082.jpg	When is this?	Mealtime. | Bedtime. | Time for work. | Time for school.
+v7w_2323141.jpg	Where is the green doors?	Behind the luggage. | In the wall. | Around the corner. | On the second story.
+v7w_2323236.jpg	Where was the photo taken?	Near a river. | On a white water raft. | On a slow canoe. | On a tour boat.
+v7w_2323387.jpg	Where was this photo taken?	In the wild. | In the city. | At a farm. | On the beach.
+v7w_2323584.jpg	Where does the number 32 appear?	On the side of the bike closest to the camera. | On the front of the bus. | On the advertisement by the bus stop. | On the "For Sale" sign on the car.
+v7w_2323640.jpg	When is this picture taken?	Christamas time. | Summer. | Halloween. | Valentine's Day.
+v7w_2323674.jpg	Where was this picture taken?	Tennis court. | On the beach. | In the park. | At a wedding.
+v7w_2323837.jpg	When was the photo taken?	During the day. | During the night. | In the office. | While running.
+v7w_2323838.jpg	When was this picture taken?	During waking hours. | During the evening. | While it was raining. | At a celebration.
+v7w_2323936.jpg	Who is on the skateboard?	The man in the green shirt. | The kid. | The woman. | The rocker.
+v7w_2323936.jpg	Where are they skating?	A skate park. | Downtown. | At homoe. | In the street.
+v7w_2324019.jpg	Where is this picture taken?	At a skateboarding event. | At a concert. | At a symphony. | At a party.
+v7w_2324077.jpg	When was this photo taken?	During the day. | During a meal. | During an event. | During the night.
+v7w_2324110.jpg	Where is a tree?	On the right. | On the left. | Far left. | On the bottom.
+v7w_2324197.jpg	Where was the picture taken?	Street. | Road. | Highway. | Driveway.
+v7w_2324225.jpg	Who is the subject of the photo?	The person. | Dog. | Bear. | Crowd.
+v7w_2379288.jpg	When was picture taken?	During daylight. | At night. | At dawn. | At dusk.
+v7w_2324376.jpg	When was the photo taken?	Daytime. | Midnight. | Afternoon. | Last night.
+v7w_2324655.jpg	When was the picture taken?	During the day. | Night. | Noon. | Evening.
+v7w_2324721.jpg	Where was this picture taken?	At the top of a very high mountain. | From a cliff. | Overlooking the canyon. | From the beach.
+v7w_2324721.jpg	Who are the people in the photo?	Skiers. | Joggers. | Hikers. | Skaters.
+v7w_2324721.jpg	When was this picture taken?	Daylight. | During commencement. | During a lunar eclipse. | At dinner.
+v7w_2324742.jpg	When was this photo taken?	Daytime. | MIdnight. | Evening. | Dawn.
+v7w_2324760.jpg	Who is crossing the road?	Horses. | Turtle. | Chicken. | Rabbit.
+v7w_2325048.jpg	Where was this picture likely taken?	Bus stop. | At school. | In the park. | On the curb.
+v7w_2325164.jpg	Where was the photo taken?	In a field. | Hospital. | Police station. | On fire truck.
+v7w_2325865.jpg	Who made the donuts?	Baker. | Child. | Electrician. | Plumber.
+v7w_2325966.jpg	Where is this picture taken?	Outside at a historic site. | Near a building. | At a museum. | On a hill.
+v7w_2326002.jpg	When did this happen?	During the day. | At night. | At Dusk. | At breakfast.
+v7w_2326022.jpg	Where was this picture taken?	In a house. | In a park. | In an office. | In a building.
+v7w_2326022.jpg	When was this picture taken?	During the day. | During the night. | During the morning. | During the afternoon.
+v7w_2326076.jpg	Where are the people walking?	Street. | Sidewalk. | Beach. | Field.
+v7w_2326100.jpg	When was this picture taken?	Daytime. | Night. | During winter. | During school.
+v7w_2326100.jpg	Who took the picture?	Ricky Aponte. | Mark Gold. | Paula Smith. | Megan Nicley.
+v7w_2326185.jpg	Where was this picture taken?	At a ski resort. | Hunting lodge. | Spa. | Night club.
+v7w_2326282.jpg	When was the picture taken?	During the day. | Before 2. | After 2. | After lunch.
+v7w_2326301.jpg	Where was the pic taken?	On the road. | On a beach. | On a building. | On a tightrope.
+v7w_2326362.jpg	Where was this picture taken?	It was taken in a restaurant. | In a living room. | In a college dorm. | At the beach.
+v7w_2326467.jpg	Who is skateboarding on the bench?	The man. | The woman. | The girl. | The boy.
+v7w_2326574.jpg	Who is present?	Nobody. | The judge. | He is. | Her parents.
+v7w_2326775.jpg	Where was this photo taken?	On a road. | On a boat. | In a museum. | In a playground.
+v7w_2326855.jpg	Who likes this phone?	The owner. | The baby. | The little girl. | The little boy.
+v7w_2326864.jpg	Who is with it?	No one. | Dog. | Cat. | Horse.
+v7w_2326897.jpg	Who is on the phone?	Guy with glasses. | The worker. | Policeman. | The school child.
+v7w_2326932.jpg	When was the photo taken?	During the day. | 8pm. | 5pm. | 3:15pm.
+v7w_2326992.jpg	Who is in the picture?	A family. | A group of friends. | A group of enemies. | A school class.
+v7w_2327003.jpg	When was this photo taken?	During the day. | In the morning. | In the afternoon. | In the evening.
+v7w_498210.jpg	Who are these men?	Monks. | Chefs. | Firefighters. | Lawyers.
+v7w_2327092.jpg	When was the picture taken?	Afternoon. | Evening. | Morning. | At night.
+v7w_2327156.jpg	Where is the train going?	Station. | Garage. | Platform. | London.
+v7w_2327229.jpg	Who is riding a scooter?	Man in helmet. | Man in baseball hat. | Woman in helmet. | Man in ski mask.
+v7w_2327229.jpg	Where are the people walking?	Sidewalk. | Street. | Curb. | Path in the forest.
+v7w_2327250.jpg	When was this picture taken?	Winter. | January. | Last night. | Morning.
+v7w_2327250.jpg	Where is this picture likely taken?	A ski resort. | In a forest. | In a car. | At the zoo.
+v7w_2327277.jpg	Who else is in the photo?	Nobody. | Sheep. | Dogs. | Cops.
+v7w_2327353.jpg	When will there be more cupcakes?	Tomorrow. | Next week. | Tonight. | Next month.
+v7w_2327472.jpg	When was this photo taken?	At night. | During the day. | At dawn. | At twilight.
+v7w_2327607.jpg	Who took the photograph?	Emmanuel N. | Jason B. | William L. | James R.
+v7w_2327629.jpg	Where is this picture taken?	Zoo. | At the Apraxia walk. | At the movie theater. | Downtown.
+v7w_2327711.jpg	When was this photo taken?	Winter time. | Summer. | Spring. | Fall.
+v7w_2327762.jpg	Where is the teddy bear?	On the ground. | On the bed. | Next to the dresser. | On the pillow.
+v7w_2327772.jpg	Where was this picture taken?	In the country. | In the woods. | At the beach. | In the city.
+v7w_2327787.jpg	When is it?	Meal time. | Sleeping time. | Mating time. | TIme to wake up.
+v7w_2327787.jpg	Where is the food?	On the plate. | In the bowl. | In the cup. | On the spoon.
+v7w_2327918.jpg	When was this photo taken?	In the daytime. | At dawn. | Midnight. | Summer.
+v7w_2327918.jpg	Where was this photo taken?	In a rice field. | On the sea. | In a grassland. | On an airplane.
+v7w_2328042.jpg	Who gave the award?	TDMC. | The Newbery committee. | The Nobel Committee. | The Pastor.
+v7w_2328094.jpg	When was this?	Daytime. | A year ago. | A month ago. | Two weeks ago.
+v7w_2328127.jpg	When was this picture taken?	During daylight. | At night. | At first light. | At sundown.
+v7w_2328127.jpg	Where do you see sunglasses?	On the skateboarders head. | On the spectator. | Laying on the ground. | On the security guard.
+v7w_2328167.jpg	Where was the photo taken?	Indoors in a bedroom. | Outside. | At a park. | By a car.
+v7w_2328259.jpg	When was the picture taken?	During transit. | During a wedding. | At a graduation. | At sunset.
+v7w_2328329.jpg	When is this picture taken?	During the day. | At sunset. | At night. | Early morning.
+v7w_2328395.jpg	When was this photo taken?	Day time. | Night time. | Dusk. | Sunrise.
+v7w_2328462.jpg	When was the picture taken?	At a meal. | At a meeting. | During class. | At work.
+v7w_2328533.jpg	Where was the image taken?	In a kitchen. | In a den. | In a bathroom. | In a bedroom.
+v7w_2328557.jpg	When was this picture taken?	Daytime. | In the morning. | At night. | On Friday.
+v7w_2328567.jpg	Who is in this picture?	There is no one in this picture. | A man. | A woman. | A girl.
+v7w_2328779.jpg	Where is this picture taken?	A hill. | A beach. | A graveyard. | A carnival.
+v7w_2328799.jpg	Where is the reflection?	On the woman's face. | On the ceiling. | On the wall. | On the table.
+v7w_2329055.jpg	When are they surfing?	Daytime. | Sunset. | In the afternoon. | At night.
+v7w_2329300.jpg	When was the photo taken?	Daytime. | Night. | Midnight. | Afternoon.
+v7w_2329356.jpg	Who took the photo?	Bridget samuels. | Terry Richardson. | Ansel Adams. | Salvador Dali.
+v7w_2329549.jpg	Who is wearing a yellow cap?	The man. | The girl. | The penguin. | The clown.
+v7w_2329602.jpg	When would a person possibly use item in background?	To commute. | To surf. | To skate. | To get money.
+v7w_2329703.jpg	When was the photo taken?	Day time. | At night. | Morning. | Sunset.
+v7w_2329708.jpg	When was picture taken?	Daytime. | At night. | Noontime. | Morning.
+v7w_2329779.jpg	When was the picture taken?	When the baby was born. | On the baby's first day home. | When the grandparents visited the baby. | After the baby's first bath.
+v7w_2329785.jpg	When was this picture taken?	When there was snow in the ground. | During dinner. | Dawn. | Dusk.
+v7w_2329794.jpg	Who is in the picture?	No one. | Woman. | Man. | Child.
+v7w_2329872.jpg	Where was this photo taken?	In the kitchen. | In the bathroom. | In the bedroom. | In the livingroom.
+v7w_2329979.jpg	Where are the man's hands?	On his hips. | In his pockets. | At his side. | On his head.
+v7w_2330015.jpg	Where is this taking place?	On a pasture. | In a field. | On the grass . | Near a flower bed.
+v7w_2330097.jpg	When was the photo taken?	On safari. | While at a zoo. | On a cruise. | While at home.
+v7w_2330212.jpg	Where was this photo taken?	Outside in the garden. | At a residence. | In California. | At a community project.
+v7w_2330333.jpg	When is this photo taken?	During the day. | From dusk till dawn. | The night the lights went out in Georgia. | During the total eclipse of the heart.
+v7w_2330353.jpg	Who is pictured?	Riders, and fans. | Surfers, and sellers. | Eaters, and supporters. | Brides, and lawyers.
+v7w_2330452.jpg	When was the photo taken?	Afternoon. | Morning. | Evening. | Nighttime.
+v7w_2330531.jpg	When is celebration?	Now. | In 1 day. | In 2 days. | In 3 days.
+v7w_2330538.jpg	Who is on the shore?	Two men. | Women. | Girl. | Boy.
+v7w_2330677.jpg	Who is the person in foreground who is eating and drinking?	Woman. | A man. | A child. | A tourist.
+v7w_2330686.jpg	When was the picture taken?	At night. | Morning. | Noon. | Sunset.
+v7w_2330744.jpg	When is this?	During the game. | After the game. | Before the game. | At half time.
+v7w_2331141.jpg	When was this shot?	Daytime. | At night. | At dawn. | At dusk.
+v7w_2331193.jpg	Who is taking the picture?	Best friend. | Photographer. | Father. | Mother.
+v7w_2331226.jpg	Where was the photo taken?	At Andersonville. | At Atlanta. | At Augusta. | At Savannah.
+v7w_2331423.jpg	Where was the picture taken?	In a doughnut shop. | In a restaurant. | At a bakery. | In a bagel shop.
+v7w_2331504.jpg	Where is the hot dog?	In the hand. | On the grill. | On the plate. | On the tray.
+v7w_2331509.jpg	Who is holding the map?	A person. | A man. | A woman. | A dog.
+v7w_2331834.jpg	When could you eat this?	Lunch or dinner. | Breakfast. | Snack. | Before bed.
+v7w_2331870.jpg	Where was the picture taken?	At a restaurant. | On a farm. | On a boat. | In a bedroom.
+v7w_2331977.jpg	When was this photo taken?	Daylight. | Midnight. | At dawn. | Evening.
+v7w_2332064.jpg	When was picture taken?	Daytime. | Nighttime. | Evening. | Morning.
+v7w_2332108.jpg	When was this photo taken?	At night. | In the daytime. | At noon. | At dusk.
+v7w_2332252.jpg	Where was this photo taken?	At the tennis court. | At the gym. | At the office. | At the soccer field.
+v7w_2332286.jpg	Who is eating a banana?	The woman. | The monkey. | The elephant. | The baby.
+v7w_2332286.jpg	Where is the banana?	In her mouth. | In the store. | On the counter. | In the garbage.
+v7w_2332323.jpg	Who has a bike in the water?	A shirtless boy. | A man. | A little kid. | The guy on the right.
+v7w_497962.jpg	Where was the photo taken?	At an office. | At a conference room. | At a lobby. | At a classroom.
+v7w_497962.jpg	Where is the man's computer?	On his lap. | On the desk. | In the office. | On a table.
+v7w_2332600.jpg	When was the photo taken?	During the day. | At night. | At dawn. | At dusk.
+v7w_2332622.jpg	When was this photo taken?	During the day. | During a volcanic eruption. | Sunset. | During a wedding.
+v7w_2332773.jpg	When will these bathroom pics stop?	Soon I hope. | The last one. | When the camera runs out of film. | When the photographer decides.
+v7w_2332775.jpg	When was the photo taken?	Afternoon. | Night time. | Dawn. | Twilight.
+v7w_497966.jpg	Where is the bus stopped?	At a pick up area. | By the curb. | In front of the intersection. | Next to the building.
+v7w_497973.jpg	Where is the red flag hanging?	Between posts. | Next to a building entryway. | At the gas station. | Outside the union hall.
+v7w_497982.jpg	Who is bending over?	One skier. | The waitress. | The bowler. | The doctor.
+v7w_498012.jpg	Where is this scene?	At a picnic bench. | At the parking lot. | On the beach. | In the ZOO.
+v7w_498012.jpg	Where are the food items?	On a table. | In the kitchen. | By the back of the store. | In the car.
+v7w_498012.jpg	Who is holding a spoon?	Somebody in red. | Somebody in blue. | A man. | A woman.
+v7w_498022.jpg	Who is in the picture?	No one. | Barak Obama. | My grandchildren. | Marilyn Monroe.
+v7w_498022.jpg	Where is the blue unicorn?	Bottom right. | In a fairy tail. | On a farm far far away. | With the red unicorn.
+v7w_498025.jpg	Who is wearing the red cap?	The woman. | The kitten. | The dog. | The child.
+v7w_498036.jpg	Who is in motion?	A guy. | A girl. | A couple. | A child.
+v7w_498045.jpg	Where are the mountains?	In the distance. | On the island. | Near the harbor. | Straight ahead.
+v7w_498050.jpg	Where are curtains shown?	Hanging on the windows. | In packages. | At the store. | In the trash.
+v7w_498065.jpg	When was this photo taken?	During the day. | At midday. | In the afternoon. | Before noon.
+v7w_498077.jpg	When will the people disband from the rows they are standing in?	When they no longer need to pose, or stand for the presentation. | When they are dismissed from assembly. | When their names are called. | When the cashier finishes the orders in front of them.
+v7w_498077.jpg	Where was the photo taken?	At a presentation. | In an office. | Inside a building. | On a sidewalk.
+v7w_498096.jpg	Where does this picture seem to have taken place?	The ocean. | The zoo. | The mountain. | The park.
+v7w_498096.jpg	Where was the picture taken?	At the harbor. | At the beach. | At the park. | At the movies.
+v7w_2333204.jpg	When was the picture taken?	During the day. | Night time. | Very early morning. | Dusk.
+v7w_498262.jpg	When was the picture taken?	At sunrise. | At dusk. | At noon. | At midnight.
+v7w_498262.jpg	Where are the palm trees?	Along the shore. | Across my front porch. | Near the sidewalk. | In the school yard.
+v7w_498266.jpg	Where was the photo taken?	Parking lot. | Town street. | Alley. | Downtown.
+v7w_498296.jpg	Who is wearing wedding ring?	One guy. | The bride. | The secretary. | The artist.
+v7w_498383.jpg	When was this photo taken?	Wintertime. | Summer time. | In the afternoon. | On Thursday.
+v7w_498383.jpg	Who is sitting?	Skier on the right. | Skier on the left. | Skier in the foreground. | Skier in the background.
+v7w_498386.jpg	When was this photo taken?	Day. | Night. | Sunrise. | Sunset.
+v7w_2333585.jpg	Where was the picture taken?	At home base. | At first base. | Out in left field. | Out in center field.
+v7w_2333585.jpg	Who is in the picture?	A batter. | Pitcher. | Fans. | Umpire.
+v7w_2333719.jpg	When was the photo taken?	Daytime. | Nighttime. | Sunset. | Sunrise.
+v7w_2333823.jpg	Where is the man standing?	Bus stop. | A rest area. | A sidewalk. | An alleyway.
+v7w_2333823.jpg	When does the next bus arrive?	Now. | This afternoon. | This evening. | Tomorrow morning.
+v7w_2333866.jpg	Where was this photo taken?	At a gas station. | At country diner. | In a man cave. | At a baby shower.
+v7w_2333881.jpg	Where are the people?	The people are in a room. | The people are in a box. | The people are in jail. | The people are in a car.
+v7w_2333936.jpg	Where was the photo taken?	On a sidewalk. | In the middle of a street. | In the grass. | In the water.
+v7w_2333960.jpg	Where is the blue helmet?	On the batter's head. | In the batter's hand. | On the bench. | On the bat.
+v7w_2333989.jpg	Who is using computers?	Both women. | Child. | Student. | Man.
+v7w_2334048.jpg	When was this photo taken?	Nighttime. | Early morning. | In the afternoon. | Years ago.
+v7w_498235.jpg	Where is the bottled water?	On the table. | On the counter. | Near the corner. | On the coaster.
+v7w_2334109.jpg	When do people stop?	When reaching the sign. | When they are done eating. | When the light turns red. | When they reach their destination.
+v7w_498251.jpg	Who is the man?	A biker. | A firefighter. | A postal worker. | A soldier.
+v7w_2334253.jpg	When was this photo taken?	During the winter months. | In the summer. | At Easter. | In the fall.
+v7w_2334274.jpg	Where was this pic taken?	On the road. | In a house. | In the forest. | At the beach.
+v7w_2334279.jpg	Where are the engines located?	Under the wings. | Under the hood. | On the sides. | At the front.
+v7w_2334324.jpg	Where is the man?	Sitting on the left. | At the top. | Near the bottom. | Sitting in the middle.
+v7w_2334401.jpg	Who is wearing a yellow coat?	Snowboarder. | Skateboarder. | Skater. | Biker.
+v7w_2334404.jpg	Who is in the picture?	3 riders. | 2 riders. | 4 riders. | 1 rider.
+v7w_1159874.jpg	Who is on a chaise lounge?	One man. | The cat. | A woman. | A teenager.
+v7w_2334749.jpg	Who is in this photo?	No one. | One person. | Two people. | Three people.
+v7w_2334774.jpg	When was the photo taken?	Day time. | Nighttime. | Evening. | Morning.
+v7w_2334901.jpg	When was this photo taken?	During the daytime. | At night. | During the party. | During an eclipse.
+v7w_2334927.jpg	When was this picture taken?	During the day. | Yesterday. | Today. | Noon.
+v7w_2335024.jpg	When was this photo taken?	During the day. | At night. | In the morning. | Dawn.
+v7w_2335069.jpg	Who is in the photo?	The pitcher. | The batter. | The driver. | The hunter.
+v7w_2335259.jpg	When was the pic taken?	During the day. | At night. | In the morning. | Afternoon.
+v7w_2335287.jpg	When was this picture taken?	Midday. | Morning. | Dusk. | Night.
+v7w_2335327.jpg	When was this photo taken?	In the daytime. | Morning. | Noon. | Dusk.
+v7w_2335341.jpg	Where is this scene?	Train station. | Bus station. | Subway station. | Airport.
+v7w_2335701.jpg	When was the picture taken?	During the winter. | During the day. | During the summer. | In the fall.
+v7w_2335727.jpg	When was this picture taken?	During the daytime. | Dusk. | Sunset. | Sunrise.
+v7w_2335743.jpg	When was this photo taken?	8:25. | 9:00. | 7:35. | 10:00.
+v7w_2335776.jpg	Where are the horse?	The grass. | In a stable. | On a racetrack. | On the beach.
+v7w_2335811.jpg	Who is in the picture?	A man. | A woman. | A girl. | A boy.
+v7w_2335932.jpg	Who is looking at the produce?	The people. | The grocery clerk. | The children. | The shipper.
+v7w_2336014.jpg	When was this photo taken?	Daytime. | Breakfast. | Lunch. | Morning.
+v7w_107918.jpg	When was this picture taken place?	During the day. | During the night. | During the morning. | During noontime.
+v7w_107949.jpg	Where does the scene take place?	On the street. | The bus. | The street. | The yard.
+v7w_2336367.jpg	When will the man put the bat down?	After he hits the ball. | Before he bats. | At second base. | At third base.
+v7w_2336455.jpg	When is the time on the clock in the picture?	12:53. | 10:30. | 2:50. | 3:30.
+v7w_2336639.jpg	When was the pic teken?	During the day. | At night. | At dusk. | At sunset.
+v7w_2336644.jpg	When was this picture taken?	Daylight. | Moonlight. | Morning. | Night.
+v7w_2336801.jpg	Where are the hydrants?	Behind fence. | By the curb. | On the sidewalk. | At the intersection.
+v7w_2336838.jpg	Who gave the man the tie?	The young boy. | His brother. | His dad. | His wife.
+v7w_2336845.jpg	Who can be seen with the zebra?	No one. | Someone. | Anyone. | A girl.
+v7w_2336929.jpg	Where was this photo taken?	At a train station. | At the bus station. | At the subway. | At the airport.
+v7w_2336977.jpg	Where was this photo taken?	By a river. | On a plane. | In front of a school. | Inside a factory.
+v7w_2336978.jpg	When is this picture taken?	Winter. | Summer. | Spring. | Fall.
+v7w_2337047.jpg	When was this picture taken?	It was taken in the day time. | Yesterday. | Today. | Noon.
+v7w_2337133.jpg	Where was this shot?	Road. | Bridge. | Overpass. | Highway.
+v7w_2337336.jpg	Where is the train going?	North. | To the city. | To the plant. | To the river.
+v7w_2337413.jpg	Where was the photo taken?	Kitchen. | The living room. | The dining room. | The basement.
+v7w_2337442.jpg	Who is driving the plane?	A pilot. | A driver. | An airman. | A stewardess.
+v7w_2337469.jpg	Where is the red car?	On the right side of the bus. | Behind the bus. | In front of the bus. | In the garage.
+v7w_2337499.jpg	When was the pic taken?	During the day. | At night. | Yesterday. | One hour ago.
+v7w_2337741.jpg	Where are the trees?	Behind the building. | At the edge of the field. | In the background. | To the right.
+v7w_2337767.jpg	Where is the food?	On the table. | On the floor. | In the bowl. | In a cabinet.
+v7w_2337768.jpg	When was the photo taken?	Daytime. | Nighttime. | Evening. | Morning.
+v7w_2337833.jpg	Who is holding the cheesesteak?	Man. | A woman. | A waiter. | A child.
+v7w_2337871.jpg	Where are the dolphins?	Tank. | Ocean. | Sea world. | Zoo.
+v7w_2337871.jpg	Who is the performer riding?	Dolphins. | Horse. | Elephant. | Pony.
+v7w_2337947.jpg	When is it?	Night time. | Day time. | Dusk. | Dawn.
+v7w_1592343.jpg	Where is the brush?	Hanging off the station. | On the brush rack. | On the counter. | On the desk.
+v7w_2338219.jpg	When was the pic taken?	During the day. | In the morning. | In the afternoon. | In the evening.
+v7w_2338233.jpg	Where are they located?	In the pasture. | In the barn. | In the road. | On the hill.
+v7w_2338501.jpg	Where are the plates?	On a table. | On the shelf. | By the glasses. | On the desk.
+v7w_2338520.jpg	When are they playing the game?	During the day. | At night. | Late afternoon. | Early morning.
+v7w_2338528.jpg	Who is wearing glasses?	Man on left. | Tall woman. | Elderly lady. | Smiling girl.
+v7w_2338528.jpg	When is it raining?	No rain. | All the time. | In the morning. | Wednesday.
+v7w_2338567.jpg	When is this taken?	Night time. | Sunrise. | Sunset. | Mid afternoon.
+v7w_2338690.jpg	Where are the bare trees?	To the left. | In the back. | By the fence. | The curb.
+v7w_2338743.jpg	When was the picture taken?	Daytime. | At night. | In the evening. | In the morning.
+v7w_2338743.jpg	Who is near the church?	A man with an accordion. | A nun. | A preacher. | A police officer.
+v7w_1159293.jpg	Where is the christmas tree standing?	By the window. | In front of the window. | In the living room. | Behind the couch.
+v7w_1159293.jpg	Where is there a vase of flowers?	On the table. | On the bench. | On the shelf. | On the window sill.
+v7w_2338945.jpg	Who is in the picture?	A couple. | Children. | The whole family. | The dog.
+v7w_2338966.jpg	When is the game over?	After 9 innings unless tied. | When the clock says zero. | After 3 periods unless it is tied. | After 4 quarters.
+v7w_1159319.jpg	When was the picture taken?	During the day. | In the morning. | At dusk. | At night.
+v7w_1159319.jpg	Where was the photo taken?	A skate park. | A soccer field. | A swimming pool. | A football field.
+v7w_1159339.jpg	Who is riding on the motorcycle?	Two men. | One man. | Two women. | One woman.
+v7w_2338993.jpg	When is the picture taken?	During the day. | Christmas. | Nighttime. | Morning.
+v7w_1159363.jpg	Who is holding a skateboard?	The boy. | The girl. | The man. | The old woman.
+v7w_1159415.jpg	When was pic taken?	In the evening. | In the afternoon. | In the morning. | During the wedding.
+v7w_1159420.jpg	Where are they?	By the truck. | A restaraunt. | The beach. | Church.
+v7w_1159420.jpg	When was this photo taken?	Day. | Night. | Morning. | Afternoon.
+v7w_1159449.jpg	Where is this taken?	Tennis stadium. | Church. | School. | Soccer field.
+v7w_1159449.jpg	Who is watching the tennis match?	Lots of fans. | Other tennis players. | People at home. | The sportscasters.
+v7w_1159449.jpg	When was this game played?	At night. | Sunday. | Early Morning. | Noon.
+v7w_1159467.jpg	When was this picture taken?	At night. | In the day. | At noon. | At dawn.
+v7w_1159467.jpg	Who are holding open umbrellas?	Several people. | Boys. | Parents. | Teachers.
+v7w_2339158.jpg	Who is with it?	No one. | Mother. | Father. | Baby.
+v7w_2339183.jpg	When is this taken?	During the day. | At night. | At dawn. | At dusk.
+v7w_1159536.jpg	When did this take place?	During the day. | Two days ago. | A year ago. | Last night.
+v7w_2339186.jpg	Who is wearing the red shirt?	Surfer. | The teacher. | The referee. | The neighbor.
+v7w_2339244.jpg	When was this picture taken?	Daylight. | Halloween. | Thanksgiving. | Mothers Day.
+v7w_2339268.jpg	Where was this photo taken?	At the railroad. | In Miami. | In Paris. | In London.
+v7w_1159641.jpg	When was the photo taken?	During the day. | In the morning. | In the evening. | At breakfast.
+v7w_1159641.jpg	Who has enormous tusks?	Elephant. | Walrus. | Sabertooth Tiger. | Mammoth.
+v7w_1159658.jpg	Where are the headphones?	Next to radios. | In my backpack. | On the shelf. | Next to the CDs.
+v7w_1159667.jpg	Who is making food?	The man wearing brown pants. | A chef. | A cook. | A woman.
+v7w_2339322.jpg	When was this photo taken?	When he wore a tie. | His wedding day. | At the funeral. | When he went to church.
+v7w_2339328.jpg	When is this scene occurring?	Early afternoon. | Night time. | Early evening. | Early morning.
+v7w_2339328.jpg	Where is the map?	Hanging on wall on the right. | In the glove compartment. | Above the desk. | In my hands.
+v7w_2339366.jpg	When was the photo taken?	Daytime. | Yesterday. | Today. | Noon.
+v7w_2339413.jpg	Where is this picture taken?	Backyard. | In the bathroom. | In the hall. | In the school.
+v7w_2339474.jpg	Where is this picture taken?	In the country. | In the farmland. | In the open land. | In the prairie.
+v7w_1159834.jpg	Who is holding skis?	The man in the back. | The athlete. | The students. | The instructors.
+v7w_2339486.jpg	When was the picture taken?	Morning. | Before dinner. | In the morning. | Daytime.
+v7w_1159873.jpg	Who has on gray pants?	Boy. | The child. | The man. | The patient.
+v7w_1159885.jpg	Where is the frisbee floating?	In mid air. | Over the house. | Close to the ground. | Just above the children.
+v7w_1159907.jpg	Where are many books?	On desk shelf. | In the library. | On the chair. | On the table.
+v7w_1159907.jpg	Where is the blue cup?	Next to the laptop. | Next to the mouse. | Next to the mouse pad. | Next to the package.
+v7w_1159913.jpg	Who is laughing to the right of the players?	A woman. | An observer. | A coach. | An umpire.
+v7w_2339567.jpg	When was the picture taken?	In the day. | Sunrise. | Sunset. | Midnight.
+v7w_1159928.jpg	Who parked the buses?	Bus drivers. | A limo driver. | A truck driver. | The boy on skateboard.
+v7w_1159964.jpg	Who is wearing glasses and a blue shirt?	The man. | A girl. | An old lady. | The vendor.
+v7w_1159981.jpg	Where is the large black rv?	Backed up to a loading dock. | Parked at the camp site. | At the dealership. | Driving down the highway.
+v7w_2339653.jpg	Who owns the TV?	A man. | A clown. | A monkey. | A young girl.
+v7w_2339653.jpg	When was the picture taken?	Midday. | Dawn. | Dusk. | Night.
+v7w_1160019.jpg	Who is teaching the grandson to ski?	Grandparents. | Ski instructor. | School. | Cat.
+v7w_2339679.jpg	When was the picture taken?	Daytime. | Nighttime. | Sunrise. | Sunset.
+v7w_2339679.jpg	Who is wearing a hat?	Baseball player. | A cowboy. | A train conductor. | A detective.
+v7w_1160053.jpg	When will the man exit the bus?	When it stops. | Soon. | In a moment. | When the door opens.
+v7w_1160083.jpg	Who is wearing a hat with a checkered pattern border?	The police officer. | The guard. | The teacher. | The lawyer.
+v7w_1160083.jpg	Where is the photo taken?	At a t photo-shoot in a metro area. | In a movie lot in Hollywood. | Next to the Hollywood Sign, Hollywood. | In Griffith Park, Hollywood.
+v7w_1160084.jpg	Who is leaning on a brown pillow?	The woman. | The dog. | The baby. | A cat.
+v7w_1160105.jpg	Where is a sign?	In the distance. | On the corner. | On the building. | On the post.
+v7w_1160154.jpg	Where is everyone rushing?	To the finish line. | To the concert. | To the ice cream store. | To buy tickets.
+v7w_1160156.jpg	Who uses the street light?	Drivers. | Bicyclists. | Pedestrians. | Drag racers.
+v7w_1160179.jpg	Where was picture taken?	Near the pier. | At the lake. | The beach. | A swamp.
+v7w_2339866.jpg	Who is in the picture?	Nobody. | A man. | A woman. | A family.
+v7w_1160223.jpg	Who appears calm?	The crowd. | The driver. | The defendant. | The groom.
+v7w_1160225.jpg	Who is rowing a kayak?	A man. | A girl. | Two men. | A boy.
+v7w_2339988.jpg	When was the picture taken?	Daytime. | Sunset. | Nighttime. | Sunrise.
+v7w_2340168.jpg	Who is present?	Nobody. | The man. | The woman. | The fireman.
+v7w_2340221.jpg	Where are the trees?	Next to the hay. | By the barn. | Near the horses. | Beside the cows.
+v7w_2340402.jpg	Where is the skier in red pants?	In front. | In back. | On the lift. | Tumbling down the slope.
+v7w_2340499.jpg	Where is the picture taken?	In a house. | In a store. | In a bank. | In a gas station.
+v7w_2340692.jpg	Where was the picture taken?	On a farm. | In the back yard. | Grandma's house. | California.
+v7w_2340981.jpg	Where are the zebras?	In the field. | Behind the fence. | At the river. | In the coral.
+v7w_2340994.jpg	Where was the picture taken?	Baggage claim. | At the beach. | On a mountain. | In the rain.
+v7w_2341174.jpg	Who is the man?	Rider. | Conductor. | Physician. | Teacher.
+v7w_2341189.jpg	When is it?	Day time. | Night time. | Dusk. | Dawn.
+v7w_2341344.jpg	When do these giraffes reach their maximum height?	In adulthood. | Teenagers. | 3yrs old. | At 5.
+v7w_2341383.jpg	Where are clouds?	In the sky. | On the ground. | Underground. | No where.
+v7w_2341417.jpg	Who is in this photo?	A man. | A truck driver. | Three babies. | A ceo.
+v7w_2341417.jpg	Where was this photo taken?	Outside on the street. | In a stairwell. | Above a street. | Underwater.
+v7w_2341495.jpg	Where is the train?	On the tracks. | On the way to New York. | At the station. | Crossing a bridge.
+v7w_2341548.jpg	When is the man sitting?	Now. | Yesterday. | Tomorrow. | Tonight.
+v7w_2341623.jpg	When was the picture taken?	Winter. | Summer. | Spring. | Fall.
+v7w_2341728.jpg	Where is this scene?	Zoo. | Aquarium. | Botanical gardens. | Aviary.
+v7w_2341758.jpg	Who is surfing?	The man. | Woman. | Teen. | Guy.
+v7w_2341758.jpg	When was surfing invented?	1779. | 1987. | 1972. | 1965.
+v7w_2341788.jpg	When are they playing?	In the daytime. | During the night. | In the afternoon. | In the morning.
+v7w_2341916.jpg	Where is the rice mixture?	Back center. | On the stove. | Next to the mushrooms. | In the bowl.
+v7w_2342008.jpg	Where is this photo taken?	At the beach. | At the home. | On the shore. | At the lake.
+v7w_2342010.jpg	Where was the picture taken?	At a tennis court. | Basketball court. | Under a bridge. | Park.
+v7w_2342037.jpg	Who has brown hair?	Man and woman. | A child. | The teacher. | The dog.
+v7w_2342065.jpg	Where was the picture taken?	On a beach. | Zoo. | Park. | Bathroom.
+v7w_2342187.jpg	When was the photo taken?	Party. | Wedding. | Anniversary party. | Monday.
+v7w_2342443.jpg	When was this taken?	Winter. | At night. | During the day. | Sunset.
+v7w_2342488.jpg	Who has on glasses?	Person on the left. | Dog on the right. | Cat in the middle. | Monkey in the tree.
+v7w_2342570.jpg	When was this photo taken?	During the daytime. | At midnight. | At dawn. | At dusk.
+v7w_1591988.jpg	Where are there no spectators?	On street. | At the mall. | Sunday morning worship service. | On the lake fishing.
+v7w_2343030.jpg	When was the photo taken?	Winter time. | Spring time. | Summer time. | Autumn time.
+v7w_2343063.jpg	Who uses this room?	Cook. | Chef. | Waiter. | Host.
+v7w_2343231.jpg	Who is pictured?	No one. | A man. | A woman. | A child.
+v7w_2343231.jpg	When is this picture taken?	During the day. | At night. | At sunset. | At sunrise.
+v7w_2343232.jpg	When was the photo taken?	Daytime. | At night. | At dawn. | At dusk.
+v7w_2343291.jpg	Who is in the picture?	A couple. | A mother and child. | A policeman. | A crowd.
+v7w_2343427.jpg	When was this photo taken?	During the night. | During the day. | Dawn. | Dusk.
+v7w_2343487.jpg	Where was the picture taken?	A living room. | Dining room. | Porch. | Tv room.
+v7w_2343642.jpg	Who is over the fire hydrant?	The skateboarder. | The scaffolding workers. | The airplane. | The scooter guy.
+v7w_2343642.jpg	When was the picture taken?	Daytime. | Midnight. | Tuesday. | Thursday.
+v7w_150326.jpg	When was this image taken?	During the morning. | At sunrise. | At dawn. | At the break of dawn.
+v7w_150329.jpg	Where is it hanging?	On the wall. | From the ceiling. | From the streetlight. | From the telephone pole.
+v7w_2343876.jpg	When is this picture taken?	During the daytime. | At noon. | At night. | Midnight.
+v7w_2343962.jpg	Where was the photo taken?	City street. | Town square. | Shopping center. | City park.
+v7w_2343962.jpg	When was the photo taken?	Dusk. | At sunrise. | At sunset. | In the evening.
+v7w_2343996.jpg	Where is the plane?	In the air. | On the runway. | In the hangar. | Above the city.
+v7w_2344006.jpg	Where was picture taken?	On the side of a road. | On a sidewalk. | On the busy street. | On a beach.
+v7w_1592185.jpg	Where is the grass?	Near the sidewalk. | In the park. | Near the tree. | Near the swings.
+v7w_2344353.jpg	Who is holding the baby?	The woman. | The mom. | The aunt. | The man.
+v7w_2344360.jpg	Where was the photo taken?	Safari. | Desert. | Plain. | Horizon.
+v7w_2344568.jpg	When was this picture taken?	At sunset. | During childbirth. | During surgery. | During baseball game.
+v7w_2344575.jpg	Where is laptop?	On a table. | On desk. | On couch. | On lap.
+v7w_2344735.jpg	When was this picture taken?	Day time. | Night. | 12:45. | Morning.
+v7w_2378728.jpg	When will the boat leave?	In the morning. | In the afternoon. | At night. | In the evening.
+v7w_2344818.jpg	Where was the picture taken?	In a park. | At the zoo. | At the pool. | In the library.
+v7w_150513.jpg	Where is the stop sign?	On the left. | Across the street. | On the right. | At the end of the block.
+v7w_2344930.jpg	When is this taken?	During the day. | In the evening. | In the morning. | At night.
+v7w_2345159.jpg	Who is in the picture?	A man. | A group of friends. | A dog. | A cat.
+v7w_2345282.jpg	When was this photo taken?	Evening. | In January. | 1945. | Yesterday.
+v7w_2345347.jpg	When is this taking place?	Daytime. | Spring break. | Christmas. | Halloween.
+v7w_1592404.jpg	Who is jumping?	A boy. | A man. | A kid. | A long haired girl.
+v7w_2345628.jpg	Where was the photo taken?	At the train station. | Zoo. | Theme park. | Street.
+v7w_2345734.jpg	When would they fly this?	In battle. | In a parade. | In an air show. | In a movie.
+v7w_2345759.jpg	Where is this scene?	Parking area. | Outlet mall. | Car wash. | Garage.
+v7w_2345792.jpg	Where is this sign located?	Saint-Laurent Boulevard. | On the corner. | Next to the lantern. | In the corner.
+v7w_2345804.jpg	When was this taken?	During the day. | During walk on the moon. | During the Super Bowl half-time. | This morning.
+v7w_2345965.jpg	Where was this photo taken?	In a kitchen. | In a bedroom. | In a tent. | In a camper.
+v7w_2345979.jpg	Who is on the surfboard?	A surfer. | A man. | A woman. | A child.
+v7w_2346090.jpg	When was the picture taken?	Daytime. | Evening. | Early morning. | Late afternoon.
+v7w_1592522.jpg	Who is laying in the bed?	Nobody. | A man. | A woman. | A child.
+v7w_2346249.jpg	Who will hit the ball?	The woman. | The man. | The child. | The teenager.
+v7w_2346311.jpg	When was this taken?	During the day. | During the evening. | During the early morning. | During the late night.
+v7w_2346353.jpg	Who is sitting on the bench?	Unoccupied. | A young couple. | An elderly man. | A woman and her child.
+v7w_2346416.jpg	When was the photo taken?	Day time. | Night time. | Dusk. | Dawn.
+v7w_2346540.jpg	When is this picture taken?	During the day. | Morning. | Noon. | Early evening.
+v7w_2346687.jpg	Where is the airplane?	In the sky. | On the turmac. | In the hanger. | On the runway.
+v7w_2346706.jpg	Who is in the middle?	A man. | A woman. | A child. | A baby.
+v7w_2346802.jpg	Who is wearing blue jacket?	A man. | A woman. | A girl. | A boy.
+v7w_2346813.jpg	Where was this picture taken?	This picture was taken on the beach. | Mountain. | Downtown. | From orbit.
+v7w_2346839.jpg	When was this taken?	During the day. | At night. | Sunrise. | Sunset.
+v7w_2346890.jpg	When was this photo taken?	During the day. | In the early morning. | Right before dark. | When it was dark.
+v7w_2346933.jpg	Where are kites?	In the air. | On the ground. | In the store. | In the child's hands.
+v7w_2347048.jpg	Where is the radish in this picture?	In the lower left corner. | In the garden. | In the serving dish in the middle. | On the people's plates on the right.
+v7w_2347381.jpg	When was this photo taken?	During the day. | Last week. | On Tuesday. | During the game.
+v7w_2347488.jpg	Who is eating?	The bird. | Family. | Child. | Couple.
+v7w_2347519.jpg	When was the picture taken?	During the day. | At night. | In the morning. | Noon.
+v7w_2347612.jpg	When was the food cooked?	At dinner time. | In the morning. | Yesterday. | At lunch.
+v7w_2347637.jpg	Who is shown there?	Man. | Woman. | Kids. | Police officers.
+v7w_2347638.jpg	Who is with the baby?	A cat. | A dog. | A teddy bear. | A piglet.
+v7w_1592782.jpg	Where are they at?	At a place that makes artificial waves. | The park. | An office building. | A conference room.
+v7w_2347805.jpg	When was the picture taken?	During the day. | Night. | Sunset. | Tomorrow.
+v7w_2347814.jpg	Where is this happening?	On river. | In the park. | At the bus stop. | On a street.
+v7w_2347856.jpg	When was the photo taken?	Afternoon. | Morning. | Evening. | Daytime.
+v7w_2348032.jpg	When was the photo taken?	Afternoon. | Morning. | Night. | Dawn.
+v7w_2348036.jpg	When is this taken?	Dusk. | Sunrise. | Midnight. | Afternoon.
+v7w_2379278.jpg	When was the picture taken?	Daytime. | Midnight. | Just before sunrise. | Just after sunset.
+v7w_2348298.jpg	Who would use the surfboard?	A surfer. | The marine biologist. | The lifeguard. | The swimmer.
+v7w_2348329.jpg	Who is up to bat?	The batter. | The businessman. | The old woman. | The boy.
+v7w_2348439.jpg	Where is the boat?	At the dock. | Water. | Beach. | River.
+v7w_2348532.jpg	Where is the station?	Behind the train. | In front of the train. | To the left of the train. | To the right of the train.
+v7w_2348554.jpg	When was the picture taken?	Daytime. | Midnight. | Dusk. | After breakfast.
+v7w_2348577.jpg	When was this picture taken?	Daytime. | Yesterday. | Last night. | Nightime.
+v7w_2348660.jpg	Where is the child sitting?	At the table. | The high chair. | The car. | On the couch.
+v7w_2348870.jpg	Who are these people?	Children. | Clowns. | Doctors. | Inmates.
+v7w_2348893.jpg	When was the photo taken?	Daytime. | Night time. | Evening. | Afternoon.
+v7w_2349066.jpg	Who is in the bed?	No one. | The cat. | The sleeping child. | A stranger.
+v7w_2349068.jpg	Where is this scene?	City sidewalk. | Downtown. | Next to a building. | At an intersection.
+v7w_2349076.jpg	When is this scene taking place?	Daylight. | At night. | In the morning. | Rush hour.
+v7w_2349195.jpg	Who is wearing a hat?	A man. | A woman. | A horse. | A boy.
+v7w_2349262.jpg	Who is in the picture?	No one. | The ghost. | The father. | The children.
+v7w_2349304.jpg	When was the picture taken?	At night. | Daybreak. | Noontime. | After breakfast.
+v7w_2349450.jpg	Where is the bicycle?	Next to the bus. | In the garage. | Up the street. | Against the fence.
+v7w_2349587.jpg	When was the pic taken?	Daytime. | Night time. | Dusk. | Early morning.
+v7w_2349681.jpg	When is this picture taken?	During the day. | At night. | Halloween. | Christmas.
+v7w_2349817.jpg	Where was the photo taken?	Street. | Farm. | Mall. | School.
+v7w_2349945.jpg	When was the photo taken?	Daytime. | Nighttime. | Dawn. | Dusk.
+v7w_1593158.jpg	Where is the sink located?	It's in the bathroom. | In the garage. | In the laundry room. | In the kitchen.
+v7w_1593158.jpg	Where is the mirror?	It's above the sink. | In the hall. | By the door. | In the car.
+v7w_2350011.jpg	Who is holding an umbrella?	A kid. | A man. | A woman. | A dog.
+v7w_2350011.jpg	Where was the photo taken?	On wet tiled area. | On the wood floor. | On the concrete patio. | In the pool.
+v7w_2350046.jpg	Where was this photo taken?	On a beach. | School. | Work. | Meeting.
+v7w_2350438.jpg	Who is getting a photo taken?	A man. | A girl. | A boy. | A bunny.
+v7w_2350492.jpg	Who is pictured?	A horse. | An old lady. | An elephant. | A monkey.
+v7w_2350492.jpg	When was the photo taken?	Daylight. | Night time. | Thanksgiving. | Halloween.
+v7w_2350615.jpg	Where is this taking place?	At a skating rink. | At the ice rink. | At the restaurant. | At the bar.
+v7w_2350689.jpg	When was this picture copyrighted?	2013. | Fifty years ago. | 1981. | Last year.
+v7w_2350689.jpg	Who copyrighted this picture?	Jeanpierre Jeannin. | The artist. | The photographer. | She did.
+v7w_2350720.jpg	Who is on the phone?	A man. | A woman. | A child. | A father.
+v7w_2350865.jpg	Who is in the photo?	No one. | A boy. | Two little girls. | A mom and baby.
+v7w_2350907.jpg	Where is the house?	In front of the trees. | Behind the trees. | In front of the mountains. | In front of a lake.
+v7w_2350955.jpg	When was this picture taken?	During the day. | During wedding. | At sunset. | At dinner.
+v7w_2351148.jpg	When was this picture taken?	During daylight. | During the night. | At dusk. | At dawn.
+v7w_2351367.jpg	Who captured this photo?	A photographer. | A child. | A sculptor. | A baby.
+v7w_2351603.jpg	When will the black team hit the ball?	When it's on their side. | When they are up to bat. | During the next inning. | After the pitcher throws it.
+v7w_2351689.jpg	When does this take place?	Daytime. | Next week. | Next month. | Morning.
+v7w_2351758.jpg	When is this taken?	During the day. | At night. | 2pm. | In the early morning.
+v7w_2351758.jpg	Where is this taken?	At an airport. | By the lake. | In the field. | Near Las Angeles.
+v7w_2351763.jpg	When does this meal take place?	In the morning. | Breakfast. | Early. | When we wake up.
+v7w_2336202.jpg	When is the picture taken?	Day time. | Night. | Morning. | Midnight.
+v7w_2336202.jpg	Where is the picture taken?	Beach. | Hotel. | Canada. | Italy.
+v7w_2351877.jpg	Where was the photo taken?	On a street. | On a road. | On a highway. | On a railroad.
+v7w_2351954.jpg	Where was the picture taken?	On a tennis court. | By the lake. | At the school. | At the church.
+v7w_2352040.jpg	Who is flying?	Pilots. | Birds. | A man. | A lady.
+v7w_2352064.jpg	When was this photo taken?	During the day. | In the morning. | At sunrise. | At night.
+v7w_2352073.jpg	When is the subject of the photo?	Bear. | Horse. | Dog. | Pony.
+v7w_2352114.jpg	When was the picture taken?	During the day. | During the morning. | At night. | In the afternoon.
+v7w_2352144.jpg	Who is standing behind the rider?	No one. | A jockey. | A security guard. | A woman in evening dress.
+v7w_2352176.jpg	When did this happen?	During the day. | Day before yesterday. | Yesterday. | In the morning.
+v7w_2352218.jpg	Where is this picture taken?	An airport. | Parking lot. | Train station. | Highway.
+v7w_2352297.jpg	Who is flying over the water?	A bird. | A plane. | A helicopter. | A jet.
+v7w_2352397.jpg	When was the photo taken?	Afternoon. | Morning. | Evening. | Late night.
+v7w_2352437.jpg	Where is the food?	On the plate. | In the refrigerator. | On the stove. | In a bag.
+v7w_2352496.jpg	When was this photo taken?	During a baseball game. | During a fireworks show. | During a karate tournament. | During a soccer game.
+v7w_2352632.jpg	When did they go skiing?	During the day. | After the wedding. | After the bar. | During the snow storm.
+v7w_2352713.jpg	When was the photo taken?	Daylight. | After 12. | November. | Summertime.
+v7w_2352870.jpg	Who is in the photo?	A person. | Teachers. | My mother. | A veterinarian.
+v7w_2352973.jpg	Who is on home plate?	Catcher. | Third baseman. | Pitcher. | Shortstop.
+v7w_2352976.jpg	When was it discovered?	At a dig. | At a meeting. | During a phone call. | Someone fell over it.
+v7w_2353216.jpg	Where was this picture taken?	At a tennis court. | At a swimming pool. | At a park. | At a building.
+v7w_2353223.jpg	Where is this scene?	In water. | In air. | In dirt. | In snow.
+v7w_2353315.jpg	Where is her left hand?	In the air. | On her side. | On the table. | On the racket.
+v7w_2353372.jpg	When is this picture taken?	During the day. | During the night. | During the evening. | During the morning.
+v7w_2353390.jpg	Who is holding the bowl?	Nobody. | A woman. | A child. | A man.
+v7w_2353662.jpg	Who is in the first car?	A person. | A policeman. | A celebrity. | The president.
+v7w_2353675.jpg	Where are these dough circles going into?	An oven. | The refridgerator. | The microwave. | A box.
+v7w_2353922.jpg	When was photo taken?	In the winter. | In the spring. | In the summer. | In the fall.
+v7w_2353922.jpg	Who is with the man?	A dog. | No one. | A lady. | A horse.
+v7w_2353962.jpg	When was the photo taken?	During the day. | At 4:21 pm. | While at the doctor. | At a birthday party.
+v7w_2354057.jpg	When in the day is this?	Afternoon. | At night. | At dawn. | At dusk.
+v7w_2354214.jpg	Who is on the phone?	The man. | Mom. | Dad. | Daughter.
+v7w_2354649.jpg	When was this picture taken?	During the day. | Yesterday. | In the morning. | In the evening.
+v7w_2354649.jpg	Who has the dark green shirt on?	Man behind chairs. | The child. | The woman. | The man.
+v7w_2354867.jpg	Who is smiling?	Woman. | Man. | Child. | Clown.
+v7w_2354868.jpg	Where is the man?	On the beach. | In New York. | In Utah. | In the desert.
+v7w_2354906.jpg	When was the photo taken?	Daytime. | Yesterday. | In the morning. | Last night.
+v7w_2355070.jpg	When is this?	Early evening. | Morning. | Night. | Sunset.
+v7w_2355090.jpg	When are the curtains lighter?	Daytime. | Nightime. | When they are closed. | When they are open.
+v7w_2355102.jpg	Where is this taken?	Outside of PRounouced shop. | Outside of a store. | Outside of a flea market. | Outside of a farmer's market.
+v7w_2355407.jpg	When was the picture taken?	Night time. | Early afternoon. | Morning. | Twilight.
+v7w_2355517.jpg	Where is the train?	The tracks. | At the crossing. | At the depot. | In the shop.
+v7w_2355630.jpg	When was this picture taken?	Daytime. | Night time. | Afternoon. | Morning.
+v7w_2355708.jpg	Who is in this picture?	A man. | A woman. | A child. | A boy.
+v7w_2355757.jpg	When is this during the day?	Afternoon. | Morning. | Evening. | Night time.
+v7w_2355765.jpg	When was the picture taken?	Evening. | Christmas. | Easter. | Birthday.
+v7w_2355819.jpg	When was this picture taken?	Daytime. | Lunchtime. | 8:00 am. | 10:00 am.
+v7w_2355819.jpg	Where is this picture taken?	Train station. | A classroom. | A bathroom. | A closet.
+v7w_2355839.jpg	When was the pic taken?	During the day. | Last week. | More than a century ago. | During the holidays.
+v7w_2355925.jpg	When is the photo taken?	During the day. | Afternoon. | Morning. | In the evening.
+v7w_2356106.jpg	Where is this scene?	Baseball field. | Football field. | Soccer field. | Golf course.
+v7w_2356238.jpg	Where are they?	A graveyard. | A city park. | A playground. | A friends house.
+v7w_2356266.jpg	Where is the grass?	By the sidewalk. | In the meadow. | In the yard. | On the playing field.
+v7w_2356513.jpg	Who is pictured?	Several people. | 1 person. | 2 girls. | 3 boys.
+v7w_2356576.jpg	When are the curtains open?	Now. | Every morning. | Every afternoon. | Every evening.
+v7w_2356593.jpg	When was this photo taken?	Many years ago. | Recently. | In the 1920s. | In the 1960s.
+v7w_2356623.jpg	Who is the subject of the photo?	Nature. | Animals. | People. | Buildings.
+v7w_2356623.jpg	When was this photo taken?	During the day. | During the night. | At dusk. | At dawn.
+v7w_2356674.jpg	When was this photo taken?	During the day. | During the night. | During the evening. | During the dawn.
+v7w_2356728.jpg	Where is this picture taken?	Sidewalk. | Beach. | Bedroom. | Farm.
+v7w_2356787.jpg	When was the picture taken?	During the day time. | During the night time. | During midnight. | During early morning.
+v7w_2356818.jpg	Who has on orange?	Person on left. | Vender. | Boy and girl on tandem bike. | Woman in front.
+v7w_2356927.jpg	When was the picture taken?	During the day. | At night. | In the morning. | At dawn.
+v7w_2357039.jpg	Who is in the photo?	A racer. | A referee. | A cyclist. | A baby.
+v7w_2357171.jpg	When was the photo taken?	Daytime. | Midnight. | Christmas. | New Years Eve.
+v7w_2357171.jpg	Where was the photo taken?	The Ocean. | Parade. | Beach. | Zoo.
+v7w_2357191.jpg	When was the man carrying?	A dog. | A cat. | A bird. | A chicken.
+v7w_2357215.jpg	When was the picture taken?	During the day. | During the afternoon. | In the morning. | At night time.
+v7w_2357383.jpg	When was the photo taken?	During the day. | At night. | In the morning. | In the evening.
+v7w_2357550.jpg	Where is location?	An african nation. | Uganda. | Nigeria. | Egypt.
+v7w_2357643.jpg	When is this picture taken?	Sunset. | The evening. | At night. | During the day.
+v7w_2357741.jpg	When does the child smile?	There is no child. | On his birthday. | At the beach. | At bedtime.
+v7w_2357751.jpg	When is this shot?	Daytime. | 7:55am. | Lunch time. | Afternoon.
+v7w_2357778.jpg	Who is in the ipicture?	No one. | A woman. | A child. | A man.
+v7w_2357793.jpg	Where are the cows?	In a field. | In the pasture. | In the barn. | In the coral.
+v7w_2357803.jpg	When was this taken?	During a tennis match. | During a soccer match. | During a basketball game. | During a baseball game.
+v7w_2357843.jpg	Who will see the clocks?	People. | Tourists. | Students. | The crowd.
+v7w_2357914.jpg	When is this in the day?	Early evening. | Morning. | Afternoon. | Evening.
+v7w_2357982.jpg	Who is standing beside the fire hydrant?	The photographer. | The scary clown. | The queen of England. | The rioters.
+v7w_2358119.jpg	Where are they?	In Milwaukee. | In Thailand. | In Cuba. | In France.
+v7w_2358337.jpg	When is this in the day?	Daytime. | Night time. | Early morning. | Early evening.
+v7w_2358456.jpg	When was this photo taken?	During a trip. | On vacation. | At the beach. | At a resort.
+v7w_2358642.jpg	Who is wearing a helmet?	Rider. | Pedestrain. | Passenger. | Jaywalker.
+v7w_2358699.jpg	Who is in the photo?	Nobody. | A baseball team. | A family. | A woman.
+v7w_2358715.jpg	When will the ship stop?	At a destination. | Tomorrow. | The ship stopped days ago. | In a few hours.
+v7w_2358732.jpg	When was the photo taken?	During the day. | At night. | At dawn. | At dusk.
+v7w_2358789.jpg	Who is the subject of the photo?	The computer. | The laptop. | The tablet. | The computer table.
+v7w_2358857.jpg	Where is the game being played?	Baseball field. | Basketball Court. | Tennis Court. | Football Field.
+v7w_2358929.jpg	When was this scene taken?	Yesterday. | Today. | Monday. | Earlier.
+v7w_2359032.jpg	When was the picture taken?	Morning. | Night time. | Dawn. | Twilight.
+v7w_2359067.jpg	When was the picture taken?	Daytime. | Tuesday. | Last year. | During the game.
+v7w_2359134.jpg	When was this?	Daytime. | Nighttime. | Dawn. | Dusk.
