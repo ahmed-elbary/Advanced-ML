@@ -55,12 +55,14 @@ import torch.nn.functional as F
 from PIL import Image
 from torchvision import models, transforms
 from torch.utils.data import DataLoader, Dataset
-from torchvision.models import vit_b_32  
+from torchvision.models import vit_b_32
+from sklearn.metrics import confusion_matrix, precision_score, f1_score
+
 
 
 # Custom Dataset
 class ITM_Dataset(Dataset):
-    def __init__(self, images_path, data_file, sentence_embeddings, data_split, train_ratio=1.0):
+    def __init__(self, images_path, data_file, sentence_embeddings, data_split, train_ratio=0.8):
         self.images_path = images_path
         self.data_file = data_file
         self.sentence_embeddings = sentence_embeddings
@@ -291,10 +293,20 @@ def evaluate_model(model, ARCHITECTURE, test_loader, device):
     sensitivity = tp / (tp + fn) if (tp + fn) > 0 else 0.0
     specificity = tn / (tn + fp) if (tn + fp) > 0 else 0.0
     balanced_accuracy = (sensitivity + specificity) / 2.0
+    
+    # Additional Metrics
+    precision = precision_score(all_labels, all_predictions, zero_division=0)
+    f1 = f1_score(all_labels, all_predictions, zero_division=0)
+    conf_matrix = confusion_matrix(all_labels, all_predictions)
 
     elapsed_time = time.time() - start_time
-    print(f'Balanced Accuracy: {balanced_accuracy:.4f}, {elapsed_time:.2f} seconds')
+    # Print metrics
+    print(f'Balanced Accuracy: {balanced_accuracy:.4f}, Time: {elapsed_time:.2f} sec')
     print(f'Total Test Loss: {total_test_loss:.4f}')
+    print(f'Precision: {precision:.4f}')
+    print(f'F1-score: {f1:.4f}')
+    print('Confusion Matrix:')
+    print(conf_matrix)
 
 
 # Main Execution
@@ -312,7 +324,7 @@ if __name__ == '__main__':
     sentence_embeddings = load_sentence_embeddings(sentence_embeddings_file)
 
     # Create datasets and loaders
-    train_dataset = ITM_Dataset(IMAGES_PATH, train_data_file, sentence_embeddings, data_split="train", train_ratio=0.2)
+    train_dataset = ITM_Dataset(IMAGES_PATH, train_data_file, sentence_embeddings, data_split="train", train_ratio=0.8)
     train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
     test_dataset = ITM_Dataset(IMAGES_PATH, test_data_file, sentence_embeddings, data_split="test")  # whole test data
     test_loader = DataLoader(test_dataset, batch_size=16, shuffle=False)
@@ -321,7 +333,7 @@ if __name__ == '__main__':
     #dev_dataset = ITM_Dataset(images_path, "dev_data.txt", sentence_embeddings, data_split="dev")  # whole dev data
 
     # Create the model using one of the two supported architectures
-    MODEL_ARCHITECTURE = "CNN" # options are "CNN" or "ViT"
+    MODEL_ARCHITECTURE = "ViT" # options are "CNN" or "ViT"
     USE_PRETRAINED_MODEL = True
     model = ITM_Model(num_classes=2, ARCHITECTURE=MODEL_ARCHITECTURE, PRETRAINED=USE_PRETRAINED_MODEL).to(device)
     print("\nModel Architecture:")
@@ -345,4 +357,5 @@ if __name__ == '__main__':
     # Train and evaluate the model
     train_model(model, MODEL_ARCHITECTURE, train_loader, criterion, optimiser, num_epochs=10)
     evaluate_model(model, MODEL_ARCHITECTURE, test_loader, device)
+
 
