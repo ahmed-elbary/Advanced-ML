@@ -70,7 +70,7 @@ model_vaq.to(device)
 
 # Custom Dataset
 class ITM_Dataset(Dataset):
-    def __init__(self, images_path, data_file, sentence_embeddings, data_split, train_ratio=1.0):
+    def __init__(self, images_path, data_file, sentence_embeddings, data_split, train_ratio=0.7):
         self.images_path = images_path
         self.data_file = data_file
         self.sentence_embeddings = sentence_embeddings
@@ -350,7 +350,7 @@ if __name__ == '__main__':
     sentence_embeddings = load_sentence_embeddings(sentence_embeddings_file)
 
     # Create datasets and loaders
-    train_dataset = ITM_Dataset(IMAGES_PATH, train_data_file, sentence_embeddings, data_split="train", train_ratio=0.2)
+    train_dataset = ITM_Dataset(IMAGES_PATH, train_data_file, sentence_embeddings, data_split="train", train_ratio=0.7)
     train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True)
     test_dataset = ITM_Dataset(IMAGES_PATH, test_data_file, sentence_embeddings, data_split="test")  # whole test data
     test_loader = DataLoader(test_dataset, batch_size=16, shuffle=False)
