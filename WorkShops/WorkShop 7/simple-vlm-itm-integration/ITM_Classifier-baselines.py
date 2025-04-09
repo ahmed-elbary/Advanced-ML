@@ -342,11 +342,11 @@ if __name__ == '__main__':
     print(f'Using device: {device}')
 
     # Paths and files
-    IMAGES_PATH = "./ITM_Classifier-baselines/visual7w-images"
-    train_data_file = "./ITM_Classifier-baselines/visual7w-text/v7w.DevImages.itm.txt"
-    dev_data_file = "./ITM_Classifier-baselines/visual7w-text//v7w.DevImages.itm.txt"
-    test_data_file = "./ITM_Classifier-baselines/visual7w-text//v7w.TestImages.itm.txt"
-    sentence_embeddings_file = "./ITM_Classifier-baselines/v7w.sentence_embeddings-gtr-t5-large.pkl"
+    IMAGES_PATH = "/workspaces/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-images"
+    train_data_file = "/workspaces/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-text/v7w.DevImages.itm.txt"
+    dev_data_file = "/workspaces/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-text//v7w.DevImages.itm.txt"
+    test_data_file = "/workspaces/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/visual7w-text//v7w.TestImages.itm.txt"
+    sentence_embeddings_file = "/workspaces/Advanced-ML/WorkShops/WorkShop 5/ITM_Classifier-baselines/v7w.sentence_embeddings-gtr-t5-large.pkl"
     sentence_embeddings = load_sentence_embeddings(sentence_embeddings_file)
 
     # Create datasets and loaders
