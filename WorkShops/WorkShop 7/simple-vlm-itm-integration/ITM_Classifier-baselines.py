@@ -378,7 +378,7 @@ if __name__ == '__main__':
 
     # Define loss function and optimiser 
     criterion = nn.CrossEntropyLoss()
-    optimiser = torch.optim.AdamW(model.parameters(), lr=3e-5, weight_decay=1e-4)
+    optimiser = torch.optim.AdamW(model.parameters(), lr=3e-3, weight_decay=1e-5)
 
     # Train and evaluate the model
     train_model(model, MODEL_ARCHITECTURE, train_loader, criterion, optimiser, num_epochs=0)
